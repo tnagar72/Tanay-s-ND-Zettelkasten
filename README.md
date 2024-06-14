@@ -13,6 +13,6 @@ Language Models perform worse on the same subjective tasks([Zhang et al; 2023](h
 
 It is worth exploring whether finetuning such language models on code-switched data (multiple languages interspersed in one sentence) can help increase performance of LMs on low-resource languages, while preserving their performance on high-resource languages used in pre-training and training (like English).
 
-If done, it would help reduce language bias, and promote language equity. Since this kind of bias is further seen in smaller language models ([Li et al; 2024](https://arxiv.org/html/2404.11553v1)), a small fine-tuning step can help unbiased user-specific language models that perform better in multilingual classrooms, and are also generally better at interacting multilingually.
+If done, it would help reduce language bias, and promote language equity. Since this kind of bias is further seen in smaller language models ([Li et al; 2024](https://arxiv.org/html/2404.11553v1)), a small fine-tuning step can help un-bias user-specific language models that perform better in multilingual classrooms, and are also generally better at behaving multilingually.
 
  Currently, there are three main ways of generating code-switched data (more info [here](Generating%20CS%20Text.md)). More info on Benchmarks on which we will evaluate baseline and fine-tuned llama can be found [here](Benchmarks.md).
