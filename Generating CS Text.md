@@ -10,10 +10,17 @@ The Translation for Code-Switching (TCS) model generates high-quality code-switc
 
 ### GCM Toolkit
 
-The GCM Toolkit is designed to generate synthetic code-mixed text by leveraging parallel data in two languages. It implements two linguistic theories of code-mixing: the Equivalence Constraint theory and the Matrix Language theory. The toolkit generates all possible code-mixed sentences for a given language pair and then samples the data to produce natural code-mixed sentences.
+The GCM Toolkit[^2] is designed to generate synthetic code-mixed text by leveraging parallel data in two languages. It implements two linguistic theories of code-mixing: the Equivalence Constraint theory and the Matrix Language theory. The toolkit generates all possible code-mixed sentences for a given language pair and then samples the data to produce natural code-mixed sentences.
 
 `So GCM relies on accepted linguistic theories to generate Code-Switched Data, not relying only on a learning model to`
 
 ### CoCoa
 
-CoCoa builds on the TCS model by adding encode and decoder side control so once can have fine-grained control on the CS text generation. However, the CoCoa paper[^1] does not
+CoCoa builds on the TCS model by adding encode and decoder side control so once can have fine-grained control on the CS text generation. However, the CoCoa paper[^3] does not provide its code. 
+
+So we can either communicate with the authors of CoCoa and try to obtain this code or go forward with one of the other two techniques. Currently, I have decided to go forward with GCM.
+
+[^1]: 
+[^2]: Mohd Sanad Zaki Rizvi, Anirudh Srinivasan, Tanuja Ganu, Monojit Choudhury, and Sunayana Sitaram. 2021. [GCM: A Toolkit for Generating Synthetic Code-mixed Text](https://aclanthology.org/2021.eacl-demos.24). In _Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations_, pages 205–211, Online. Association for Computational Linguistics.
+[^3]: Sneha Mondal, Ritika ., Shreya Pathak, Preethi Jyothi, and Aravindan Raghuveer. 2022. [CoCoa: An Encoder-Decoder Model for Controllable Code-switched Generation](https://aclanthology.org/2022.emnlp-main.158). In _Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing_, pages 2466–2479, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics.
+
