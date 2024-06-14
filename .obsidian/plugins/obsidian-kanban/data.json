@@ -1,0 +1,11 @@
+{
+  "tag-colors": [
+    {
+      "tagKey": "#hard",
+      "color": "rgba(255, 40, 40, 1)",
+      "backgroundColor": "rgba(223, 130, 130, 0.38)"
+    }
+  ],
+  "hide-tags-display": true,
+  "lane-width": 300
+}
