@@ -9,7 +9,6 @@
 [Research Proposal](Research%20Proposal.md)
 
 [Benchmarks](Benchmarks.md)
-
 [TL;DR Research Proposal](#TL;DR%20Research%20Proposal)
 
 ### TL;DR Research Proposal
