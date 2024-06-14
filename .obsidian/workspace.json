@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Generating CS Text.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Generating CS Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Generating CS Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Generating CS Text.md"
               }
             }
           },
@@ -175,8 +175,8 @@
   },
   "active": "35d3ada012d228a7",
   "lastOpenFiles": [
-    "Weekly Research Progress.md",
     "README.md",
+    "Weekly Research Progress.md",
     "Grigorii's List of Papers.md",
     "Research Proposal.md",
     "Relevant Research Papers.md",
