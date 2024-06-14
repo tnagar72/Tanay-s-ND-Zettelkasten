@@ -2,11 +2,13 @@
 
 ### Links
 
-[Relevant Research Papers](Relevant%20Research%20Papers.md)
-[Weekly Research Progress](Weekly%20Research%20Progress.md)
+> [!NOTE] Links
+> [Relevant Research Papers](Relevant%20Research%20Papers.md)
+   [Weekly Research Progress](Weekly%20Research%20Progress.md)
 [Research Proposal](Research%20Proposal.md)
 [Benchmarks](Benchmarks.md)
 [TL;DR Research Proposal](#TL;DR%20Research%20Proposal)
+
 ### TL;DR Research Proposal
 
 Language Models perform worse on the same subjective tasks([Zhang et al.](https://aclanthology.org/2023.emnlp-main.491.pdf)) when the prompted in different languages. This bias is primarily caused by an imbalance in language data use for pre-training/training i.e. LMs perform worse for low-resource languages on subjective tasks.
