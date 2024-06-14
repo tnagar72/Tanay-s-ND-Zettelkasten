@@ -19,4 +19,4 @@
 
 1. Found two new ways of generating CS-text that were already published ([GCM](https://aclanthology.org/2021.eacl-demos.24.pdf) and [CoCoa](https://aclanthology.org/2022.emnlp-main.158/)); Each have their respective advantages and disadvantages. Check [Generating CS Text](Generating%20CS%20Text.md) for more info
 2. Met Deng to discuss LLM OCR project; Discussed obstacle about Spa-Eng CS generation with Anna. (Will need to email Author of CoCoa to possibly ask for the code)
-3. 
+3. Currently going with GCM toolkit to generate spa-eng code; Spent time reading through [Zhang et al; 2023](https://aclanthology.org/2023.emnlp-main.491.pdf) to better understand all benchmarks used and create more testing examples

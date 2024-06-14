@@ -20,19 +20,7 @@
             }
           },
           {
-            "id": "074ccc622fda9641",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecd33b543267dab0",
+            "id": "9d6d98600dd6fa3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9d6d98600dd6fa3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -197,11 +173,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9d6d98600dd6fa3f",
+  "active": "35d3ada012d228a7",
   "lastOpenFiles": [
     "Weekly Research Progress.md",
-    "Grigorii's List of Papers.md",
     "README.md",
+    "Grigorii's List of Papers.md",
     "Research Proposal.md",
     "Relevant Research Papers.md",
     "Benchmarks.md",
