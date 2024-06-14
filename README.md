@@ -1,6 +1,4 @@
 # README
-
-
 ### Links :)
 
 [Research Proposal](Research%20Proposal.md) | 
