@@ -1,4 +1,6 @@
 {
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "useMarkdownLinks": true,
+  "showInlineTitle": false
 }
