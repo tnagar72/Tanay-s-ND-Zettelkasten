@@ -2,6 +2,16 @@
 
 
 ### Links :)
+
+
+> [!NOTE] Links :)
+> [Research Proposal](Research%20Proposal.md) | 
+> [Weekly Research Progress](Weekly%20Research%20Progress.md) | 
+> [Relevant Research Papers](Relevant%20Research%20Papers.md) | 
+   [Generating CS Text](Generating%20CS%20Text.md) | 
+> [Benchmarks](Benchmarks.md) | 
+> [TL;DR Research Proposal](#TL;DR%20Research%20Proposal)
+
 [Research Proposal](Research%20Proposal.md) | 
 [Weekly Research Progress](Weekly%20Research%20Progress.md) | 
 [Relevant Research Papers](Relevant%20Research%20Papers.md) | 
