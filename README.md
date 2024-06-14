@@ -4,7 +4,7 @@
 ### Links :)
 
 
-> [!NOTE]
+> [!NOTE] Links :)
 > [Research Proposal](Research%20Proposal.md) | 
 > [Weekly Research Progress](Weekly%20Research%20Progress.md) | 
 > [Relevant Research Papers](Relevant%20Research%20Papers.md) | 
