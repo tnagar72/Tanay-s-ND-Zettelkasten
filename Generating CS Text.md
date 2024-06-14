@@ -15,3 +15,5 @@ The GCM Toolkit is designed to generate synthetic code-mixed text by leveraging 
 `So GCM relies on accepted linguistic theories to generate Code-Switched Data, not relying only on a learning model to`
 
 ### CoCoa
+
+CoCoa builds on the TCS model by adding encode and decoder side control so once can have fine-grained control on the CS text generation. However, the CoCoa paper[^1] does not
