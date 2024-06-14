@@ -5,6 +5,8 @@ There are three main ways to generate CS text:
 
 The Translation for Code-Switching (TCS) model[^1] generates high-quality code-switched text by adapting a state-of-the-art neural machine translation model. Starting from monolingual Hindi sentences, TCS uses a curriculum of pretraining steps, including synthetic code-switched text, to enhance the model's performance. The model relies on both supervised and unsupervised training objectives, utilizing monolingual text, parallel text, and synthetic code-switched sentences. TCS demonstrates significant improvements in tasks like language modeling and natural language inference by effectively capturing code-switching patterns​
 
+![](Pasted%20image%2020240614171754.png)
+
 `So TCS utilizes MT technqiues to capture CS patterns and create a hindi to hinglish model. It does not follow any explicit linguistic rules related to code-switching`
 
 ### GCM Toolkit
@@ -17,7 +19,7 @@ The GCM Toolkit[^2] is designed to generate synthetic code-mixed text by leverag
 
 CoCoa builds on the TCS model by adding encode and decoder side control so once can have fine-grained control on the CS text generation. However, the CoCoa paper[^3] does not provide its code.
 
-
+![](Pasted%20image%2020240614171727.png)
 
 `So we can either communicate with the authors of CoCoa and try to obtain this code or go forward with one of the other two techniques. Currently, I have decided to go forward with GCM.`
 
