@@ -21,7 +21,7 @@ CoCoa builds on the TCS model by adding encode and decoder side control so once 
 
 ![](Pasted%20image%2020240614171727.png)
 
-`So we can either communicate with the authors of CoCoa and try to obtain this code or go forward with one of the other two techniques. Currently, I have decided to go forward with GCM.`
+`So we can either communicate with the authors of CoCoa and try to obtain this code or go forward with one of the other two techniques. Currently, I have decided to go forward with GCM, while we attempt to get in touch with the authors of the CoCoa paper and get their code.`
 
 [^1]: https://arxiv.org/abs/2107.06483
 [^2]: Mohd Sanad Zaki Rizvi, Anirudh Srinivasan, Tanuja Ganu, Monojit Choudhury, and Sunayana Sitaram. 2021. [GCM: A Toolkit for Generating Synthetic Code-mixed Text](https://aclanthology.org/2021.eacl-demos.24). In _Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations_, pages 205–211, Online. Association for Computational Linguistics.
