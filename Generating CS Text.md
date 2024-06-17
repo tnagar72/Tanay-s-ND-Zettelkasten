@@ -26,4 +26,3 @@ CoCoa builds on the TCS model by adding encode and decoder side control so once 
 [^1]: https://arxiv.org/abs/2107.06483
 [^2]: Mohd Sanad Zaki Rizvi, Anirudh Srinivasan, Tanuja Ganu, Monojit Choudhury, and Sunayana Sitaram. 2021. [GCM: A Toolkit for Generating Synthetic Code-mixed Text](https://aclanthology.org/2021.eacl-demos.24). In _Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations_, pages 205–211, Online. Association for Computational Linguistics.
 [^3]: Sneha Mondal, Ritika ., Shreya Pathak, Preethi Jyothi, and Aravindan Raghuveer. 2022. [CoCoa: An Encoder-Decoder Model for Controllable Code-switched Generation](https://aclanthology.org/2022.emnlp-main.158). In _Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing_, pages 2466–2479, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics.
-

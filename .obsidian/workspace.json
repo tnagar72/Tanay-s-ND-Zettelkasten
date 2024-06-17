@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Benchmarks.md",
-                "mode": "preview",
+                "file": "Relevant Research Papers.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Benchmarks.md",
+                "file": "Relevant Research Papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Benchmarks.md",
+                "file": "Relevant Research Papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Benchmarks.md"
+                "file": "Relevant Research Papers.md"
               }
             }
           },
@@ -201,12 +201,12 @@
   "active": "b71b26cd71e863b9",
   "lastOpenFiles": [
     "Generating CS Text.md",
-    "Teminology.md",
+    "Relevant Research Papers.md",
     "Benchmarks.md",
+    "Teminology.md",
     "README.md",
     "Pasted image 20240614171754.png",
     "Pasted image 20240614171727.png",
-    "Relevant Research Papers.md",
     "Grigorii's List of Papers.md",
     "Weekly Research Progress.md",
     "Research Proposal.md",
