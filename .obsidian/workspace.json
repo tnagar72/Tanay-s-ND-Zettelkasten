@@ -8,49 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35d3ada012d228a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generating CS Text.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b71b26cd71e863b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Relevant Research Papers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e39275fea000e97f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teminology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d6d98600dd6fa3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weekly Research Progress.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -122,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generating CS Text.md",
+                "file": "Relevant Research Papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generating CS Text.md",
+                "file": "Relevant Research Papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generating CS Text.md"
+                "file": "Relevant Research Papers.md"
               }
             }
           },
@@ -197,14 +161,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "35d3ada012d228a7",
+  "active": "b71b26cd71e863b9",
   "lastOpenFiles": [
-    "README.md",
     "Generating CS Text.md",
+    "Relevant Research Papers.md",
+    "README.md",
     "Teminology.md",
     "Weekly Research Progress.md",
     "Research Proposal.md",
-    "Relevant Research Papers.md",
     "Grigorii's List of Papers.md",
     "Benchmarks.md",
     "Pasted image 20240614171754.png",
