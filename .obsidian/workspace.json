@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relevant Research Papers.md",
+                "file": "Week4code/week4code_readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relevant Research Papers.md",
+                "file": "Week4code/week4code_readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relevant Research Papers.md",
+                "file": "Week4code/week4code_readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relevant Research Papers.md"
+                "file": "Week4code/week4code_readme.md"
               }
             }
           },
@@ -163,10 +163,12 @@
   },
   "active": "b71b26cd71e863b9",
   "lastOpenFiles": [
-    "Generating CS Text.md",
-    "Relevant Research Papers.md",
-    "README.md",
     "Teminology.md",
+    "Week4code/week4code_readme.md",
+    "Week4code",
+    "Relevant Research Papers.md",
+    "Generating CS Text.md",
+    "README.md",
     "Weekly Research Progress.md",
     "Research Proposal.md",
     "Grigorii's List of Papers.md",
