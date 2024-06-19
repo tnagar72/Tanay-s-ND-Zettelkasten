@@ -9,26 +9,23 @@ def prettify_json(json_str):
     except json.JSONDecodeError:
         raise Exception("Invalid JSON format")
     
-def print_eachQ(json_dict: dict):
-    print("Question: " + json_dict["question"]['stem'])
+def print_eachQ(json_dict: dict, counter: int):
+    print(str.format("Question {}: ", counter) + json_dict["question"]['stem'])
     print()
     for label in json_dict['question']["choices"]:
         print(label['label'] + ": ", label['text'])
+    print()
 
 with open("Logic.json", "r") as file:
     json_list = json.load(file)
-    
+
+counter = 1
+
 for json_obj in json_list:
     try:
         prettified_json = prettify_json(json.dumps(json_obj))
-        print(prettified_json)
-        print(type(prettified_json))
-        print(type(prettified_json["question"]))
-        print(type(prettified_json["question"]["choices"]))
-        print(type(prettified_json['question']["choices"][0]["label"]))
-        print(prettified_json['question']["choices"][0]["label"])
-        print(prettified_json['question']["choices"][0]["text"])
-        print_eachQ(prettified_json)
+        print_eachQ(prettified_json, counter)
+        counter += 1
     except Exception as e:
         print(f"Error occurred: {e}")
         traceback.print_exc()
