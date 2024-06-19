@@ -10,7 +10,8 @@ def prettify_json(json_str):
         raise Exception("Invalid JSON format")
     
 def print_eachQ(json_dict: dict):
-    print("Question:" + json_dict["question"])
+    print("Question: " + json_dict["question"]['stem'])
+    print()
     for label in json_dict['question']["choices"]:
         print(label['label'] + ": ", label['text'])
 
@@ -24,7 +25,9 @@ for json_obj in json_list:
         print(type(prettified_json))
         print(type(prettified_json["question"]))
         print(type(prettified_json["question"]["choices"]))
-        print(type(prettified_json["choices"][0]))
+        print(type(prettified_json['question']["choices"][0]["label"]))
+        print(prettified_json['question']["choices"][0]["label"])
+        print(prettified_json['question']["choices"][0]["text"])
         print_eachQ(prettified_json)
     except Exception as e:
         print(f"Error occurred: {e}")
