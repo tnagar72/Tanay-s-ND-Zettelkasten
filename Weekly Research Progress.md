@@ -20,3 +20,11 @@
 1. Found two new ways of generating CS-text that were already published ([GCM](https://aclanthology.org/2021.eacl-demos.24.pdf) and [CoCoa](https://aclanthology.org/2022.emnlp-main.158/)); Each have their respective advantages and disadvantages. Check [Generating CS Text](Generating%20CS%20Text.md) for more info
 2. Met Deng to discuss LLM OCR project; Discussed obstacle about Spa-Eng CS generation with Anna. (Will need to email Author of CoCoa to possibly ask for the code)
 3. Currently going with GCM toolkit to generate spa-eng code; Spent time reading through [Zhang et al; 2023](https://aclanthology.org/2023.emnlp-main.491.pdf) to better understand all benchmarks used and create more testing examples
+
+### Week 4
+
+1. Finished CPT credit assignments for work authorization
+2. Read through Translation Variant tasks of the Zhang et al. paper and planned how they can be implemented in our project too
+3. Discussed draft pipeline and all aspects of the project with Anna (in prep for meeting with Dr. Chawla)
+4. Reached out to CoCoa model team for code
+5. Tested TE tasks on Llama 3 to get some baseline scores (check [week4code_readme](week4code_readme.md)for more info)

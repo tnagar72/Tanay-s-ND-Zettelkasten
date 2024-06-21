@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week4code/week4code_readme.md",
+                "file": "Weekly Research Progress.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week4code/week4code_readme.md",
+                "file": "Weekly Research Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week4code/week4code_readme.md",
+                "file": "Weekly Research Progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week4code/week4code_readme.md"
+                "file": "Weekly Research Progress.md"
               }
             }
           },
@@ -163,19 +163,19 @@
   },
   "active": "b71b26cd71e863b9",
   "lastOpenFiles": [
+    "Week4code/week4code_readme.md",
+    "Weekly Research Progress.md",
+    "Relevant Research Papers.md",
+    "Generating CS Text.md",
+    "Benchmarks.md",
+    "Grigorii's List of Papers.md",
+    "README.md",
+    "Research Proposal.md",
     "Week4code/logicQ.txt",
     "Week4code/prettify_print.py",
     "Week4code/Logic.json",
     "Teminology.md",
-    "Week4code/week4code_readme.md",
     "Week4code",
-    "Relevant Research Papers.md",
-    "Generating CS Text.md",
-    "README.md",
-    "Weekly Research Progress.md",
-    "Research Proposal.md",
-    "Grigorii's List of Papers.md",
-    "Benchmarks.md",
     "Pasted image 20240614171754.png",
     "Pasted image 20240614171727.png",
     "Untitled",
