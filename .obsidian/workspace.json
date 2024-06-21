@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "6d0f255895af74cd",
+            "id": "a0442b73357d410f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Midway Research Recap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a6e197ab45606c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "README.md"
               }
             }
           },
@@ -174,12 +186,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6d0f255895af74cd",
+  "active": "9a6e197ab45606c4",
   "lastOpenFiles": [
+    "Midway Research Recap.md",
     "Weekly Research Progress.md",
-    "Untitled.md",
-    "Week4code/week4code_readme.md",
     "Relevant Research Papers.md",
+    "Week4code/week4code_readme.md",
     "Generating CS Text.md",
     "Benchmarks.md",
     "Grigorii's List of Papers.md",
