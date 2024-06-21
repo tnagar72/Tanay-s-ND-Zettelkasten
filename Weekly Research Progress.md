@@ -27,4 +27,4 @@
 2. Read through Translation Variant tasks of the Zhang et al. paper and planned how they can be implemented in our project too
 3. Discussed draft pipeline and all aspects of the project with Anna (in prep for meeting with Dr. Chawla)
 4. Reached out to CoCoa model team for code
-5. Tested TE tasks on Llama 3 to get some baseline scores (check [week4code_readme](week4code_readme.md)for more info)
+5. Tested TE tasks on Llama 3 to get some baseline scores (check [week4code_readme](Week4code%2Fweek4code_readme.md) for more info)

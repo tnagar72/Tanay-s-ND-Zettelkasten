@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2c744af91c4adf9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "stacked": true
@@ -161,7 +169,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b71b26cd71e863b9",
+  "active": "180cac8db9217a62",
   "lastOpenFiles": [
     "Week4code/week4code_readme.md",
     "Weekly Research Progress.md",
