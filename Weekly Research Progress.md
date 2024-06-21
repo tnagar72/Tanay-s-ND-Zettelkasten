@@ -28,3 +28,4 @@
 3. Discussed draft pipeline and all aspects of the project with Anna (in prep for meeting with Dr. Chawla)
 4. Reached out to CoCoa model team for code
 5. Tested TE tasks on Llama 3 to get some baseline scores (check [week4code_readme](Week4code%2Fweek4code_readme.md) for more info)
+6. Read CoCoa paper to get better understanding how to adjust CMI index for CS text output
