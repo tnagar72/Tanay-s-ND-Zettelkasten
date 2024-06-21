@@ -2,8 +2,7 @@
 ___
 ### Introduction
 
-
-
+Towards Compound Bilingualism and Language Equity
 ### Problem
 
 ### Goals
