@@ -1,5 +1,5 @@
 # Midway Research Recap
-
+___
 ### Introduction
 
 
