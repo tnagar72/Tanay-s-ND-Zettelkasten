@@ -32,6 +32,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -173,7 +174,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b71b26cd71e863b9",
+  "active": "9a6e197ab45606c4",
   "lastOpenFiles": [
     "Weekly Research Progress.md",
     "Untitled-2024-06-21-2114.png",

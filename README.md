@@ -17,4 +17,4 @@ If done, it would help reduce language bias, and promote language equity. Since 
 
  Currently, there are three main ways of generating code-switched data (more info [here](Generating%20CS%20Text.md)). More info on Benchmarks on which we will evaluate baseline and fine-tuned llama can be found [here](Benchmarks.md).
 
-![Untitled-2024-06-21-2114](Untitled-2024-06-21-2114.svg)
+![Untitled-2024-06-21-2114](Untitled-2024-06-21-2114.png)
