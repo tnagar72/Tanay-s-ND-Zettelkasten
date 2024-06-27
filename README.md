@@ -6,7 +6,8 @@
 [Relevant Research Papers](Relevant%20Research%20Papers.md) | 
 [Generating CS Text](Generating%20CS%20Text.md) | 
 [Benchmarks](Benchmarks.md) | 
-[TL;DR Research Proposal](#TL;DR%20Research%20Proposal)
+[TL;DR Research Proposal](#TL;DR%20Research%20Proposal) |
+[Midway Research Report](Midway%20Research%20Report.pdf)
 ### TL;DR Research Proposal
 
 Language Models perform worse on the same subjective, translation-variant tasks([Zhang et al; 2023](https://aclanthology.org/2023.emnlp-main.491.pdf))(more info in [Benchmarks](Benchmarks.md)) when prompted in different languages. This bias is primarily caused by an imbalance in language data use for pre-training/training i.e. LMs perform worse for low-resource languages on subjective tasks.
@@ -17,7 +18,7 @@ If done, it would help reduce language bias, and promote language equity. Since 
 
  Currently, there are three main ways of generating code-switched data (more info [here](Generating%20CS%20Text.md)). More info on Benchmarks on which we will evaluate baseline and fine-tuned llama can be found [here](Benchmarks.md).
 
-![Untitled-2024-06-21-2114](Untitled-2024-06-21-2114.png)
+Check out
 
 
 | **Task** | En  | Hi  |
