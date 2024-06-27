@@ -30,3 +30,13 @@
 5. Tested TE tasks on Llama 3 to get some baseline scores (check [week4code_readme](Week4code%2Fweek4code_readme.md) for more info)
 6. Read CoCoa paper to get better understanding how to adjust CMI index for CS text output
 7. Worked on Monday Midway Presentation
+
+### Week 5
+
+1. Monday Midway Research Presentation on Monday
+2. CPT credit work
+3. Tested code-switched text generation with chat-gpt; came up with prompt to convert commonSenseQA dataset into:
+	1. CS Questions + English Answers
+	2. CS + Hi
+	3. CS + CS
+4. Prepared GPT-4o API cost calculation document (on leave for Thursday and Friday)

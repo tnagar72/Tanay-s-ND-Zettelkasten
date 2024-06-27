@@ -17,5 +17,3 @@ It is worth exploring whether finetuning such language models on code-switched d
 If done, it would help reduce language bias, and promote language equity. Since this kind of bias is further seen in smaller language models ([Li et al; 2024](https://arxiv.org/html/2404.11553v1)), a small fine-tuning step can help user-specific language models perform better in multilingual classrooms, and also generally, behave better multilingually.
 
  Currently, there are three main ways of generating code-switched data (more info [here](Generating%20CS%20Text.md)). More info on Benchmarks on which we will evaluate baseline and fine-tuned llama can be found [here](Benchmarks.md).
-
-Check out

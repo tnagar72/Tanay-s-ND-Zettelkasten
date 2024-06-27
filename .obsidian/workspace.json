@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Weekly Research Progress.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Weekly Research Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Weekly Research Progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Weekly Research Progress.md"
               }
             }
           },
@@ -175,13 +175,13 @@
   },
   "active": "b71b26cd71e863b9",
   "lastOpenFiles": [
-    "Midway Research Report.pdf",
+    "Midway Research Recap.md",
+    "project-pipeline.excalidraw",
     "README.md",
+    "Midway Research Report.pdf",
     "Weekly Research Progress.md",
     "Untitled-2024-06-21-2114.png",
     "Untitled-2024-06-21-2114.svg",
-    "project-pipeline.excalidraw",
-    "Midway Research Recap.md",
     "Relevant Research Papers.md",
     "Week4code/week4code_readme.md",
     "Generating CS Text.md",
