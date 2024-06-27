@@ -39,4 +39,5 @@
 	1. CS Questions + English Answers
 	2. CS + Hi
 	3. CS + CS
-4. Prepared GPT-4o API cost calculation document (on leave for Thursday and Friday)
+	   We can’t control ration of L1 and L2 right now
+4. Prepared GPT-4o API cost calculation document(on leave for Thursday and Friday)
