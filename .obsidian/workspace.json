@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly Research Progress.md",
+                "file": "Chat-GPT CS Text Synthesis/Prompt.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly Research Progress.md",
+                "file": "Chat-GPT CS Text Synthesis/Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly Research Progress.md",
+                "file": "Chat-GPT CS Text Synthesis/Prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly Research Progress.md"
+                "file": "Chat-GPT CS Text Synthesis/Prompt.md"
               }
             }
           },
@@ -173,21 +173,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "180cac8db9217a62",
+  "active": "b71b26cd71e863b9",
   "lastOpenFiles": [
-    "Chat-GPT CS Text Synthesis/openai-env/bin/activate",
-    "Chat-GPT CS Text Synthesis/openai-env/bin/Activate.ps1",
-    "Chat-GPT CS Text Synthesis/openai-env/bin/activate.csh",
-    "Chat-GPT CS Text Synthesis/openai-env/bin/activate.fish",
-    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/pip-23.1.2.dist-info/REQUESTED",
-    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/pip-23.1.2.dist-info/INSTALLER",
-    "Chat-GPT CS Text Synthesis/openai-env/bin/pip3.11",
-    "Chat-GPT CS Text Synthesis/openai-env/bin/pip3",
-    "Chat-GPT CS Text Synthesis/openai-env/bin/pip",
-    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/pip/_vendor/webencodings/__pycache__/x_user_defined.cpython-311.pyc",
-    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/pip/_vendor/webencodings/__pycache__/tests.cpython-311.pyc",
-    "Chat-GPT CS Text Synthesis/Untitled.md",
+    "Chat-GPT CS Text Synthesis/hinglish_questions.txt",
+    "Chat-GPT CS Text Synthesis/hinglish_questions.json",
+    "Chat-GPT CS Text Synthesis/hinglish-test.py",
     "Weekly Research Progress.md",
+    "Chat-GPT CS Text Synthesis/Prompt.md",
+    "Chat-GPT CS Text Synthesis/openai-test.py",
+    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/openai-1.35.10.dist-info/REQUESTED",
+    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/openai-1.35.10.dist-info/INSTALLER",
+    "Chat-GPT CS Text Synthesis/openai-env/bin/openai",
+    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/openai/__pycache__/version.cpython-311.pyc",
+    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/openai/types/shared_params/__pycache__/function_parameters.cpython-311.pyc",
+    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/openai/types/shared_params/__pycache__/function_definition.cpython-311.pyc",
+    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/openai/types/shared_params/__pycache__/__init__.cpython-311.pyc",
+    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/httpx-0.27.0.dist-info/licenses/LICENSE.md",
+    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/httpcore-1.0.5.dist-info/licenses/LICENSE.md",
+    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/idna-3.7.dist-info/LICENSE.md",
     "Midway Research Recap.md",
     "README.md",
     "Untitled-2024-06-21-2114.png",
