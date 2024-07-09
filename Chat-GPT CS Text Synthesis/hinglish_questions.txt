@@ -1,69 +1,89 @@
-John beavers ढूंढ़ रहा था लेकिन कहीं नहीं मिल सका, क्योंकि उसका घर कहाँ था?
-A: America
-B: Australia
-C: Countryside
-D: Dictionary
-E: Woodlands
+Question 1: स्कूल के खिलाफ लगे प्रतिबंध एक punishing झटका थे, और वे लग रहा था कि यह कुछ change करने की school की efforts को किस special कर दिया जाएगा?
+ID: 075e483d21c29a511267ef62bedc0461
 
-मर्डर करने से उस आदमी को काफी थकान हुई, क्योंकि उसने जो वादा किया था, वह आदमी के दिल की धड़कन को अभी भी सुन सकता था?
-A: Great sorrow
-B: Stethoscope
-C: Guilty conscience
-D: Find God
-E: Go to jail
+A:  ignore
+B:  enforce
+C:  authoritarian
+D:  yell at
+E:  avoid
 
-लड़कियाँ कब खाती हैं आइसक्रीम सोफ़े पर?
-A: Wash hands
-B: Were hungry
-C: Depressed
-D: Athlete's foot
-E: Cool down
+Question 2: सैमी का मन उस स्थान में जाने का है जहां लोग होते हैं। वह जा सकता है कहां?
+ID: 61fe6e879ff18686d7552425a36344c8
 
-जब आप लंच खाना चाहते हैं, तो आपके पास इसके लिए क्या होना चाहिए?
-A: Eat food
-B: Shopping for food
-C: Prepare food
-D: Find food
-E: Have time for
+A:  race track
+B:  populated areas
+C:  the desert
+D:  apartment
+E:  roadblock
 
-अगर आप बैठकर अच्छी यादें सोचते हैं, तो आप क्या कर पाएंगे?
-A: Sit quietly
-B: Concentrate
-C: Wake up
-D: Stay focused
-E: Relax
+Question 3: चोकर ढूंढने के लिए जब आप jewelry box या boutique में ढूंढ ​​नहीं पा रहे होंगे, तो आप कहां जाएंगे?
+ID: 4c1cb0e95b99f72d55c068ba0255c54d
 
-बॉलपॉइंट पेन सबसे अच्छी जगह पर स्टोर की जा सकती है?
-A: Pocket
-B: Stationery store
-C: Backpack
-D: Desk drawer
-E: Bank
+A:  जवेलरी स्टोर
+B:  गर्दन
+C:  ज्वेलरी बॉक्स
+D:  ज्वेलरी बॉक्स
+E:  बूटिक
 
-सारा ने चीज़ को मूंगफली से भर दिया। उसने मूंगफली से क्या भरा?
-A: Ballpark
-B: Box
-C: Container
-D: Carnival
-E: Jar
+Question 4: Google Maps और अन्य highway और street GPS services ने क्या को replace कर दिया है?
+ID: 02e821a3e53cb320790950aab4489e85
 
-रेस्तरां कहाँ एक मोमबत्ती रख सकता है?
-A: Dimly lit room
-B: Kitchen
-C: Wall
-D: Table
-E: Birthday cake
+A:  united states
+B:  mexico
+C:  countryside
+D:  एटलस
+E:  oceans
 
-एक छात्र क्या करने वाला है अगर वह काले और सफेद कुंजी पट्टियों के सामने बैठा है?
-A: Talk
-B: Read book
-C: Play piano
-D: Study book
-E: Study engineering
+Question 5: लोमड़ी ने शहर से जंगल में चल दिया, वह क्या ढूंढ रही थी?
+ID: 23505889b94e880c3e89cff4ba119860
 
-एक सुपरहाईवे के ऊपर आप कहाँ जा सकते हैं?
-A: City
-B: Rural area
-C: Cyberspace
-D: Computer network
-E: Industrialized country
+A:  pretty flowers.
+B:  hen house
+C:  natural habitat
+D:  storybook
+E:  dense forest
+
+Question 6: कौन सा home entertainment equipment cable की जरूरत होती है?
+ID: e8a8b3a2061aa0e6d7c6b522e9612824
+
+A:  radio shack
+B:  substation
+C:  cabinet
+D:  television
+E:  desk
+
+Question 7: वह महिला जिनका एक drawstring bag ही था जिसे वह देखती ही थी वह उसके साथ कहां जा रही थी?
+ID: 09555c056f3cf0b7e0b84d8df4be1db7
+
+A:  garbage can
+B:  military
+C:  जवेलरी स्टोर
+D:  safe
+E:  संचार
+
+Question 8: भूले हुए बचे हुए खाने को काफी old हो चुका था, उसे फंगस से पुरी तरह से ढक लिया गया था उसके की पिछलियों में कहां?
+ID: 3d0f8824ea83ddcc9ab03055658b89d3
+
+A:  carpet
+B:  refrigerator
+C:  breadbox
+D:  फ्रिज
+E:  coach
+
+Question 9: लोग fountain pen से extra ink अवश्यकता को किससे absorb करने के लिए इस्तेमाल करते हैं?
+ID: 86c59f14af97b33ec13edc6ec4389e31
+
+A:  shirt pocket
+B:  calligrapher's hand
+C:  inkwell
+D:  desk drawer
+E:  blotter
+
+Question 10: एक बिजनेस रेस्टोरेंट किस जगह स्थित होने की संभावना है?
+ID: cae61908c731d4a20889e04c3e784ebe
+
+A:  town
+B:  एट होटेल
+C:  mall
+D:  व्यापारी क्षेत्र
+E:  yellow pages

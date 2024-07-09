@@ -2,7 +2,7 @@ import tiktoken
 enc = tiktoken.encoding_for_model("gpt-3.5-turbo")
 assert enc.decode(enc.encode("hello world")) == "hello world"
 
-with open("json_file.txt", "r") as file:
+with open("All-CS_smaller.txt", "r") as file:
     prompt = file.read()
 
 enc.encode(prompt)

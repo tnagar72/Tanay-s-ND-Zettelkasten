@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Chat-GPT CS Text Synthesis/Prompt.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -176,18 +176,18 @@
   "active": "b71b26cd71e863b9",
   "lastOpenFiles": [
     "Chat-GPT CS Text Synthesis/hinglish_questions.txt",
-    "Chat-GPT CS Text Synthesis/hinglish_questions.json",
-    "Chat-GPT CS Text Synthesis/hinglish-test.py",
+    "Week4code/train_rand_split (2).jsonl",
+    "Week4code/prettify_print-commonSenseQA.py",
+    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/tiktoken_ext/__pycache__/openai_public.cpython-311.pyc",
+    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/tiktoken_ext/openai_public.py",
+    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/tiktoken_ext/__pycache__",
+    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/tiktoken_ext",
+    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/tiktoken-0.7.0.dist-info/top_level.txt",
+    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/tiktoken-0.7.0.dist-info/WHEEL",
+    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/tiktoken-0.7.0.dist-info/REQUESTED",
+    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/tiktoken-0.7.0.dist-info/RECORD",
     "Weekly Research Progress.md",
     "Chat-GPT CS Text Synthesis/Prompt.md",
-    "Chat-GPT CS Text Synthesis/openai-test.py",
-    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/openai-1.35.10.dist-info/REQUESTED",
-    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/openai-1.35.10.dist-info/INSTALLER",
-    "Chat-GPT CS Text Synthesis/openai-env/bin/openai",
-    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/openai/__pycache__/version.cpython-311.pyc",
-    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/openai/types/shared_params/__pycache__/function_parameters.cpython-311.pyc",
-    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/openai/types/shared_params/__pycache__/function_definition.cpython-311.pyc",
-    "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/openai/types/shared_params/__pycache__/__init__.cpython-311.pyc",
     "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/httpx-0.27.0.dist-info/licenses/LICENSE.md",
     "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/httpcore-1.0.5.dist-info/licenses/LICENSE.md",
     "Chat-GPT CS Text Synthesis/openai-env/lib/python3.11/site-packages/idna-3.7.dist-info/LICENSE.md",
