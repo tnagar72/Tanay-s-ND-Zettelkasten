@@ -82128,4 +82128,648 @@ A: नासा
 B: सी०डी० प्लेयर्स
 C: प्रयोगशाला
 D: अस्पताल
-E: आखों के चिकित्सालय
+E: आखों के चिकित्सालयQuestion 9649: समझ जाते हैं की कुछ लोग कार नहीं खरीदने की क्योंचुनते हैं?
+ID: 1697aefcd4b6f7c0e329e431bb5a95d2
+
+A: पैसे खर्च करने की financial burden
+B: speeds में कमी
+C: लोगों को घर से आपत्ति मिलने का जरिया
+D: नगर में पहुंचने का इका
+E: कार सस्ती होती है ।
+
+Question 9650: ऑफ़िस जाने के लिए ड्राइव करना एकदिनीय हो सकता है, वह अपने पसंदीदा music सुनाती थी और उसके साथ just...करती थी?
+ID: 57cee4603c0f07e51f9efdb6d47624c7
+
+A: sing
+B: रेडियो सुनना
+C: music सुनना
+D: गति बढ़ाना
+E: head bang
+
+Question 9651: लिली गर्मी में थी। उन्होंने जॉन के शरीर पर अपने हाथ दौड़ाये, जबकि उसने उसे kiss किया। अब वह सही से सोच नहीं पा रही थी। हर नस ज़ोर जोर से दबकर फूल रही थी। कुछ ऐसा करने में वह अनुभव कर रही थी?
+ID: f8cb4a59e770d2fa4f9e2a0d2077dbb8
+
+A: stroke
+B: सुखद अनुभव
+C: तापमान कार्यप्रवाह
+D: पसीना बहना
+E: उत्साह
+
+Question 9652: Jellyfish कहां गरम रह सकते हैं?
+ID: 741c8a8cfaf21354d19d34443cde244c
+
+A: एटलांटिक समुद्र
+B: बिकिनी बॉटम
+C: जापानी रेस्टोरेंट
+D: दुकान
+E: प्रशांत महासागर
+
+Question 9653: जहां हम हाथी को तामसीहों को आंकूरित करते हैं, वहां देख सकते हैं?
+ID: 366a0cde2e24373fae7b17ab37a6d1f6
+
+A: इंडिया
+B: सर्कस
+C: चिड़ियाघर
+D: सफारी
+E: अफ्रीका
+
+Question 9654: बास्केटबॉल में एक रिबाउंड पूर्वानुमान लगाना कठिन है, इसका कारण गेंद और छज्जा क्या हैं?
+ID: d1f76941ca3d63b5610f2c548d5d6ad1
+
+A: dribbling
+B: पूरी तरह पूरी हवा भरने के साथ
+C: court में bounce करना
+D: आघात का
+E: गोल गोली
+
+Question 9655: ऊंट उस देश की जलवायु से तरह-तरह की थाने से पार किया। उसे कहां देखा जा सकता है?
+ID: 35fa218271f4d47503f7420ab1be8568
+
+A: जापान
+B: ऑंटारियो
+C: वाशिंगटन
+D: जंगल
+E: किताबें
+
+Question 9656:आज रात के म्यूजिकल कार्यक्रम की कवर कौन करेगा?
+ID: 826ec860a4a1e1999a938942635c2de9
+
+A: अपेरा
+B: कार्यक्रम
+C: टेलिविजन
+D: संगीत सभा
+E: कंप्यूटर
+
+Question 9657:आप कहां से डाइनिंग रूमटेबल प्राप्त कर सकते हैं?
+ID: 8c269fc044826ea484b8eb8d96838426
+
+A: मकान
+B: गलीचा
+C: जूते की दुकान
+D: घर
+E: फर्नीचर स्टोर
+
+Question 9658: थक जाने के पश्चात एक सेकेंड्री परिनाम के रूप में क्या हो सकता है?
+ID: fb0d77af491068b16035ad58980eaca7
+
+A: सुस्त
+B: bicycle बंद
+C: टीवी देखना
+D: खर्राटे लेना
+E: बैठना
+
+Question 9659: जोड़ी के पास आर्थिक समस्याएँ हो रही हैं, बाज़ार में उत्पादों की खरीद से क्या हो सकता है?
+ID: 19eee9caa52e736b12c192071c4046f3
+
+A: arthik बढ़ोतरी
+B: इस्तेमाल करना
+C: मतभेद
+D: पैसे खर्च करना
+E: आनंद
+
+Question 9660: यदि कुछ कोशिश करके कुछ को नष्ट किया जाता है, जहां तक कि सम्पूर्ण सफल नहीं होती, तो उसके बाद उस पर क्या किया जा सकता है?
+ID: 6fee410a4010d5da81e0b3dd2311490e
+
+A: विध्वंस वस्त्र
+B: ठीक करना
+C: ठीक करना 
+D: बनाना
+E: निर्माण करना
+
+Question 9661: कोई भी furhance रखना किस जगह अजीब है?
+ID: a3bae9fdafa0cde2176237b9cd722fa2
+
+A: सेलर
+B: छावनी
+C: मकान
+D: बेसमेंट
+E: घर
+
+Question 9662: किसी को क्या संग्रहित करना द्वारा नोटबुकमेंडर में?
+ID: 92919f9aa7c8395a67faf094a1ae0a00
+
+A: स्टेशनरी दुकान
+B: स्कूल
+C: ऑफ़िस
+D: नोट्बुक
+E: बैकपैक
+
+Question 9663: अपना ख्याल रखने के लिए ग्रूमिंग क्यों महत्वपूर्ण होती है?
+ID: eb29af6a2efcd2b2dfb4e9520592a4c7
+
+A: गलती
+B: धूप
+C: गलतियाँ
+D: स्वच्छता
+E: सुंदरता
+
+Question 9664: जंक मेल कहां रखेंगे?
+ID: 0fd12ff0fd9c43454251e6213ab7bf22
+
+A: टोकरी
+B: कचरा
+C: वेस्ट बिन
+D: मेल बॉक्स
+E: डेस्क
+
+Question 9665: बिली ने अपना कचरा केन में डाल दिया। हाउसकीपिंग को यह करना था, लेकिन इसलिए यह उसके लिए आसान था क्योंकि यह जगह सस्ती थी। बिली कहां हैं?
+ID: 996f2c4543a0dc23cb98ee09ca808b6d
+
+A: डंप
+B: ऑफ़िस
+C: मोटेल
+D: पार्क
+E: कोना
+
+Question 9666: चाहे चूंकी मैंने एक उचित वाक्य लिखने की इच्छा की है, मुझे यह सुनिश्चित करना होगा कि वह...हो नहीं जाता है
+ID: 03947e87d6028c3cf72ff1616632438b
+
+A: गलत
+B: अपूर्ण
+C: अभद्र
+D: अनुपयुक्त
+E: कारागार
+
+Question 9667: क्या किया होने के बाद उसके अंदर नहीं खींचा?
+ID: b1d1d29a372b369de0c98ab65ee49c49
+
+A: अंदर लेना
+B: अंदर लेने की क्रिया
+C: खांसी आना
+D: सांस लेना
+E: ध्यान करना
+
+Question 9668: उन्होंने प्रोविडेंस के पास लगाने के लिए एक सेब का पेड़ खरीद लिया। उस पेड़ को कहां रखा गया?
+ID: 30ae843199a0fa779ef1fc669d7cc7bf
+
+A: बीच
+B: रोड आइलैंड
+C: आइडाहो
+D: न्यू हैम्पशायर
+E: खेत
+
+Question 9669: अगर आप सारे दिन पंक्ति में खड़े रहते हैं और कोई आपके सामने पटवारी मारता है तो आप महसूस क्या कर सकते हैं?
+ID: 6a00245882762d43a5c42a2b8155a3b0
+
+A: बेहोशी
+B: सतर्कता
+C: भूख
+D: बोरियत
+E: दर्द
+
+Question 9670: thunderstorm सामग्री का एक पुराना हुआ, उसने वह कहां खरीदी थी?
+ID: 879533dadb2019eaf40fde036484f4c9
+
+A: रसोई
+B: भुंकर
+C: बिग बॉक्स स्टोर
+D: डिस्वॉशर
+E: रेस्टोरेंट
+
+Question 9671: अगर मनुष्य और मैमोथ से मिलना चाहें, तो वह संभवतः इस समय कर सकते हैं?
+ID: 3d3f3888ed411b93a5268ea0005a450d
+
+A: शौचालय
+B: प्राचीन इतिहास
+C: स्टोरीबुक
+D: पत्थर युग
+E: वन
+
+Question 9672: drunk होने के लिए एक और शब्द क्या हो सकता है?
+ID: 29bc2ec70a183af7f452ac99ecd5578a
+
+A: उत्तेजित
+B: नशेड़
+C: मतली
+D: हैंगओवर
+E: बीमार पड़ा हुआ
+
+Question 9673: कुत्ता सुसु करने के लिए क्या करता है?
+ID: 12e340afa1379f68e8ac3e51cdb91901
+
+A: गार्ड हाउस
+B: देखभाल से
+C: लेचर
+D: घर के अंदर
+E: बाहर जाता है
+
+Question 9674: अगर रास्ते में हो कही आपको एक रेस्टरूम की आवश्यकता होती है, तो आप कहां रुक सकते हैं?
+ID: 146506348b1afbd9ff6242c22d2924ac
+
+A: आराम करें
+B: पुस्तकालय
+C: चिड़ियाघर
+D: ऑफ़िस बिल्डिंग
+E: गैस स्टेशन
+
+Question 9675: संघ कमेटी से जुड़ी जगह पर जनता जा सकती है।
+ID: 405a0b2795e1d28435a505642425961b
+
+A: बिजनेस
+B: शहरी परिषद की बैठक
+C: मंदिर
+D: दफ्तर की बिल्डिंग
+E: बोर्डरूम
+
+Question 9676: अगर आप दोस्तों के साथ चैट करते हुए मज़े में हो, तो आप क्या हो सकता हैं?
+ID: dfeaf58fe2757ebe71f6e3546f01f9fa
+
+A: agreement (सहमति)
+B: संपर्क करना
+C: प्रेम
+D: खुशी
+E: असामंजस
+
+Question 9677: टूल खुंगर को नहीं छूटा, और टूल का एक सामान्य sizing था
+ID: 5f19bce44eec43fadd95e9c26cd20db5
+
+A: अनौपचारिक
+B: देशी
+C: गैर मानक
+D: मानक ढाल
+E: संतोषी
+
+Question 9678: आप लैंड कर सकते हैं, अपनी चीजें को क्लेम करते हुए, और एक बस स्टॉप में तुरंत जा सकते हैं
+ID: c88c7fe329d28234b566aa6684e9f9c4
+
+A: हवाईअड्डा
+B: नगर
+C: शहरी क्षेत्र
+D: शहरों
+E: बस स्टेशन
+
+Question 9679: राजा अपने पीछे के आंगन में सैर किया कॉर्टयार्ड से, क्या नजदीक था?
+ID: 7046b325f4b49a1051299f557bab4291
+
+A: महल
+B: बगीचा
+C: देशी कोठी
+D: बड़ा बंगला
+E: शहर के प्रदेश में
+
+Question 9680: सेल्सपर्सन बच्चों के साथ विशेष रूप से अच्छा होना चाहिए, फिर वह कहां काम करता था?
+ID: cbba576b4b99ffedede40d316e0f7ff7
+
+A: डील के बंद होने
+B: पुस्तकों की दुकान
+C: खिलौने की दुकान
+D: दुकान
+E: रेस्टोरेंट
+
+Question 9681: कहां एक ऐसी पत्थर को प्राप्त कर सकते हैं जो पदचालित हुआ हो?
+ID: 54549f8b11a5ccd447bbd7e50b389ef3
+
+A: झील
+B: खेल का इलाका
+C: तालाब
+D: एक्वेरियम
+E: स्टुट्को
+
+Question 9682: भैया बंद हुई खड़ी माइणट चाहिए। तब से क्या कर रहे हैं?
+ID: b47811bdea79c02ee65edd075cc8fe83
+
+A: करारावास
+B: पकड़ा हुआ
+C: रहना
+D: पकड़े जाना
+E: जकड़े
+
+Question 9683: मैक्स प्याज़ ढूंढ़ रहा था ताकि वह स्टू बना सके। रहा हो सकता हैं?
+ID: 7bb8b4dff85ab1f0b554f060b2728111
+
+A: मार्केट
+B: पिज़्ज़ाइए
+C: फ्रिज
+D: सेवक
+E: टेबल
+
+Question 9684: धर्म अपने नाम के लिए बड़ा महत्व रखती है, लेकिन कमरे के नंबर में सबसे प्रीची होता है विचारशीलता की?
+ID: ec93ff28af711d5420fdfd6e71851669
+
+A: नास्तिकता
+B: नास्तिक
+C: विज्ञान
+D: युद्ध
+E: उलझनQuestion 9685: John सोचा कि using television लिस्टनिंग टू radio से different होता है। Television और radio में क्या difference है?
+ID: 4e2b4bbef140ddb7c8df9c6ece9d38e1
+
+A: visual
+B: conformity
+C: audio
+D: entertained
+E: laziness
+
+Question 9686: अगर आप एक corner को too high velocity के साथ take करते हैं तो आपके कार में क्या हो सकता है?
+ID: ff4a0b9355126b3eb7d553ed5457a168
+
+A: roll over
+B: move quickly
+C: slow down
+D: go fast
+E: be late
+
+Question 9687: कंपनी के stockholders क्या देख सकते हैं ताकि वो देख सकें कि कंपनी कैसे कर रही है?
+ID: e5f1dada008202871ca4fe39b53db6ec
+
+A: assets
+B: you
+C: cafeteria
+D: board of directors
+E: earnings
+
+Question 9688: अगर लोगों को कुछ controversial बताया जाता है, तो वो क्या करते हैं?
+ID: a5f8b8661e1e250f928d96d26ab129d5
+
+A: peace की आशा करते हैं
+B: god में विश्वास करते हैं
+C: fights start करते हैं
+D: opinions बनाते हैं
+E: idols की पूजा करते हैं
+
+Question 9689: सभी parents अपने performance को देखने के लिए cafeteria में इकट्ठे हुए, Mark's भी वहीं थे ताकि उन्होंने उन्हें trombone का नाच देख सकें।
+ID: a05425e6999fbabc4a373aeaae82f6b1
+
+A: orchestra
+B: brass quartet
+C: marching band
+D: school band
+E: school play
+
+Question 9690: एक large northeastern city में एक इंसान कहां खाना ढूंढ सकता है?
+ID: 89a97a991423e645cc5b5683f7815b31
+
+A: store
+B: school
+C: many places
+D: new york city
+E: zoo
+
+Question 9691: सबसे अधिक लोग sex करने के समय क्या achieve करना चाहते हैं?
+ID: 14949b0fadcc17ad9790c9281271b064
+
+A: unwanted pregnancy
+B: bliss
+C: aids
+D: getting pregnant
+E: orgasm
+
+Question 9692: जब लोग souvenirs buy करने जाते हैं तो वो कब जाते हैं?
+ID: 5fe47980c12871cc077ff6d882669e96
+
+A: having money
+B: money and time
+C: funeral
+D: spending money
+E: travel
+
+Question 9693: किस जगह पर guests के लिए specialty hair salon हो सकता है?
+ID: 875460d732ea6769bbab9779a57adad5
+
+A: mail
+B: shopping center
+C: hotel
+D: resort
+E: metropolitan city
+
+Question 9694: एक sloth slow climb करता है, लेकिन eventually वो कहां तक climb कर सकता है?
+ID: 07509edade87f1084984607ae7de0323
+
+A: forest canopy
+B: universe
+C: tropical rainforest
+D: large trees
+E: nature preserve
+
+Question 9695: जब कोई science के बारे में सीख रहा है तो उसके साथ क्या होता है?
+ID: d94d84ab938bf64f453de3340919521b
+
+A: loss of interest
+B: excitement
+C: accidents
+D: experiment
+E: become educated
+
+Question 9696: U.S. के south में एक steak house मिलता है जहां Dos Equis cerveza serve होती है?
+ID: a48831db5efed3b7ad4042216f219434
+
+A: japan
+B: restaurant
+C: mexico
+D: united states
+E: texas
+
+Question 9697: christian rock band बड़े stage पर थी, singer's foot किसी wire में फंस गया था और उसे small what हो गया था?
+ID: 10c03f73db44320787136d17b9b591d9
+
+A: commit sin
+B: fail
+C: disobey
+D: stumble
+E: boo boo
+
+Question 9698: उस व्यक्ति ने एक headache का experience करने के बाद ibuprofen ली थी, फिर उसके साथ क्या हुआ?
+ID: 1234e5e8a62754a28379398a82be3f9d
+
+A: feel relieved
+B: cross street
+C: learn to swim
+D: walk
+E: act responsibly
+
+Question 9699: "Big Sky Country" के नाम से जाने जाने वाले state में जाकर क्या देख सकते हैं?
+ID: 4ae035142b73a2a0c2f27ba784b62261
+
+A: kentucky
+B: zoo
+C: montana
+D: river or stream
+E: canada woodlands
+
+Question 9700: खुश बच्चे को क्या कराते हैं?
+ID: 20e62a1bbf507377172b79b3b9466f57
+
+A: birth
+B: act of sex
+C: loving couple
+D: parents
+E: adoption
+
+Question 9701: जब economic forces एक changing society के साथ मिलते नहीं हैं, तो क्या होता है?
+ID: aadbb0e22f592a89390524879e058f7a
+
+A: change in leadership
+B: anger
+C: resentment
+D: heartache
+E: depression
+
+Question 9702: Jane पार्टी के लिए जा रही थी। उसे friends बनाने या शराब मिलाने की फिक्र नहीं थी, उसे बस क्या करना था?
+ID: 3058524de6459263f3f0862452649a89
+
+A: plan
+B: meet new people
+C: work
+D: have fun
+E: getting drunk
+
+Question 9703: John कोई नहीं था जिसे gift दे सके। Christmas presents खरीदना उसके लिए stressful था और खत्म हो गया था वह क्या था?
+ID: 8afe2512b2dce81c87d4f8c4b77d5523
+
+A: relief
+B: happiness
+C: very sad
+D: lack of money
+E: debt
+
+Question 9704: friend's साथ बातचीत करना तब अच्छा नहीं हो सकता अगर उनके साथ join होकर बाहर जाएं और वो क्या कर रहे हों?
+ID: d50c7468aee55aed8ac6085fbc552d27
+
+A: laughing
+B: smoke
+C: laugh loud
+D: tell story
+E: lie
+
+Question 9705: अपने स्वास्थ्य के लिए nature में समय बिताना महत्वपूर्ण है और कभी-कभी इनके बाहर क्या निकलें जाना चाहिए?
+ID: 2d7c9561645f41756f13c13f66294dbf
+
+A: city
+B: man made
+C: indoors
+D: town
+E: artificial
+
+Question 9706: kissing किसके लिए lead करता है?
+ID: 6681a221235b9f0b8c7b2836f74debe1
+
+A: like
+B: drunkenness
+C: happiness
+D: herpes
+E: shyness
+
+Question 9707: मेरा chest में कुछ बड़ा हो रहा है thinking of gaining more land। मेरा chest क्यों बड़ा हो रहा है?
+ID: 456d296bbbcca6739a946853ddbcd1c8
+
+A: go to war
+B: higher taxes
+C: heart attack
+D: pride
+E: disputes
+
+Question 9708: हाथों को बहुत बार धोने से क्या हो सकता है?
+ID: 0364531663dd7c20c42c3877314f84b9_1
+
+A: health
+B: dry skin
+C: pink hands
+D: become wet
+E: wet floor
+
+Question 9709: उस bowl को जब उसे होता है तो उसे कहां रखते हैं?
+ID: 730e83c1f7c7f1f4a38e12648d7afd8c
+
+A: cupboard
+B: restaurant
+C: cabinet
+D: trash
+E: dishwasher
+
+Question 9710: chatting दोस्तों के साथ करने के वक़्त की mood कैसी होती है?
+ID: bcfe5d5af61ee59385db1f0637f5b00e
+
+A: love
+B: social bonding
+C: talkative
+D: gathering of information
+E: feel relaxed
+
+Question 9711: कब एक महाराज्ञी की history देख सकते हैं?
+ID: 094452aa8105f24734d42a4c1497d679
+
+A: europe
+B: monarchy
+C: saudi arabia
+D: book
+E: crown jewels
+
+Question 9712: अगर आप North America में हो और Atlantic Ocean की ओर एक expressway पर यात्रा कर रहे हो तो आप कहां जा रहे हो?
+ID: 2b6324d997da8e0d9dfcedbcc295e37d
+
+A: michigan
+B: large city
+C: state
+D: american city
+E: eastern united states
+
+Question 9713: जब लोग band के मालिक होते हैं तो वो क्या perform करते हैं?
+ID: 1f1dac89f40a1d3bcb54b16398857639
+
+A: standing ovation
+B: music
+C: tricks
+D: applause
+E: smile
+
+Question 9714: आपको "the sky की और क्रॉस" जाने के लिए क्या go through करना होगा?
+ID: 91b2a4649122feaa9e9ea3a8eba0150b
+
+A: outdoors
+B: planetarium
+C: head strain
+D: atmosphere
+E: heavens
+
+Question 9715: बिली एक लंबी vacation पर जा रहा था, लेकिन उसने उससे पहले खाना खाया था। वह कहां खाना खा सकता था?
+ID: 616c8f60c2611e3f08ddfa58f3792306
+
+A: space shuttle
+B: friend's house
+C: disneyland
+D: supermarket
+E: gas station
+
+Question 9716: तूर्निकेट को आप कहां रखते हो?
+ID: 70cc2bcb4204bc60d5f0aeacdb31bf1e
+
+A: hospital
+B: ambulance
+C: pocket
+D: emergency kit
+E: applying even pressure
+
+Question 9717: मैं बर्फ में नंगा हूँ। मुझे गर्मी की किसी भी method की ज़रूरत है। मैं क्या try कर सकता हूँ?
+ID: 0577abb9eecb50a74ee9dbb7c5544c8c
+
+A: jump in a swimming pool
+B: starting fire
+C: pleasure
+D: increase of temperature
+E: feeling comfortable
+
+Question 9718: garlic bread के लिए कब राता है?
+ID: de29f7e8be9d98a1e3013c9cb1597fde
+
+A: refrigerator
+B: dinner
+C: jail
+D: supermarket
+E: going on a date
+
+Question 9719: लिखना किसका एक प्रकार है?
+ID: 3ccd00b58a29f9fbe83b210ea2e675e4
+
+A: communication
+B: listening
+C: carpal tunnel syndrome
+D: revolutions
+E: writer's cramp
+
+Question 9720: लोग क्यों उठकर जीवन जीने के लिए चाहिए?
+ID: 79abfe2d98399fa0029a09721e232b66
+
+A: help people
+B: all know
+C: was given to
+D: have no other choice
+E: can't help it
