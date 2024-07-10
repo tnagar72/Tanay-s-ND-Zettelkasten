@@ -4,7 +4,6 @@ from openai import OpenAI
 # Load the API key from the environment variable
 # print(os.getenv('OPENAI_API_KEY'))
 api_key = os.getenv('OPENAI_API_KEY')
-# api_key = 'sk-proj-fE8lR05rEI2gzeclt3KOT3BlbkFJRrDY06TnJ7f1IOi0Gyd0'
 
 if api_key is None:
     raise ValueError("API key not found. Make sure the environment variable OPENAI_default_proj is set correctly.")
