@@ -82773,3 +82773,54 @@ B: all know
 C: was given to
 D: have no other choice
 E: can't help it
+
+Question 9721: "Big rolling machines रोज tons of newspapers बनाते थे simply by getting the stories क्या?"
+Answer Choices: A: tree B: recycled C: written on paper D: printed on paper E: local
+
+Question 9722: "Billy की disability ने उसे move करने से रोका, but उसने उसके mind को या किसे change नहीं किया?"
+Answer Choices: A: activity B: potence C: qualification D: competency E: strength
+
+Question 9723: "CEO की curiosity product के बारे में बढ़ गई, so उसने क्या करने का decide किया?"
+Answer Choices: A: hear news B: purchase it C: examine thing D: attend school E: go to market
+
+Question 9724: "अगर आप किसी को hurt करते हुए पकड़े जाते हैं, तो आपके पास क्या होने की संभावना है?"
+Answer Choices: A: legal problems B: more hurt C: physical pain D: public outcry E: money
+
+Question 9725: "थोड़ा cloud था बाहर but overall मौसम बहुत क्या था?"
+Answer Choices: A: clear sky B: eat cake C: sunny D: bringing rain E: sunshine
+
+Question 9726: "अगर मुझे crossword puzzle solve करना है, तो मुझे कहां मिल सकता है?"
+Answer Choices: A: playground B: newspaper C: kindergarten class D: toy store E: toy shop
+
+Question 9727: "Two-year college degrees होते हैं या तो associates of science या associates of क्या?"
+Answer Choices: A: math B: astronomy C: bachelor D: arts E: faith
+
+Question 9728: "Fish कई varieties में आती है, कई लोग उन fishes को पसंद करते हैं जो क्या हो सकती हैं?"
+Answer Choices: A: striped B: colorful C: gills D: snakefish E: eaten raw
+
+Question 9729: "उसे film दूसरी बार director की commentary के साथ देखना पसंद था, उसे insights पसंद थे और वह क्या ध्यान से करता?"
+Answer Choices: A: go to movies B: rent one C: sit down D: listen E: quite
+
+Question 9730: "अगर कोई term paper जल्दी लिखता है, तो उसे क्या problem face करनी पड़ेगी?"
+Answer Choices: A: headaches B: errors C: low mark D: anxiety E: frustration
+
+Question 9731: "John ने steam को ठंडा किया। Steam क्या बन गई?"
+Answer Choices: A: condensate B: electric smoke C: smoke D: liquid water E: cold air
+
+Question 9732: "किसकी surface पर ripples होते हैं?"
+Answer Choices: A: mirror B: object C: cottage cheese D: tetrahedron E: lake
+
+Question 9733: "वे सब board game खेलना चाहते थे, यह कहां से निकाला गया?"
+Answer Choices: A: cupboard B: under the bed C: shelf D: toy store E: house
+
+Question 9734: "मुझे major city में public transit का इंतजार करते हुए seating कहां मिल सकती है?"
+Answer Choices: A: rest area B: bus depot C: theatre D: bus stop E: church
+
+Question 9735: "किस type के homes में attic होने की संभावना होती है?"
+Answer Choices: A: victorian house B: own home C: older houses D: boxes E: apartment
+
+Question 9736: "जब आप business खोलते हैं, तो आपको अंदर से बहुत सारी किस चीज़ की जरूरत होती है?"
+Answer Choices: A: workers B: money C: determination D: funding E: creativity
+
+Question 9737: "अगर कोई public में जाना चाहता है, तो उसे क्या करना होगा?"
+Answer Choices: A: consequences B: being ridiculed C: more money D: more funding E: telling all
