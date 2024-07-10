@@ -1,3 +1,72 @@
-{
-    "hinglish_questions": []
-}
+[
+    {
+        "Question": "Question 1: स्कूल के ख़िलाफ़ लगाए गए सैंक्शन बहुत ज़्यादा कठोर थे, और वो उस परिश्रम को बेकार तो कर रहे ही लग रहे थे लेकिन उसके अलावा भी कुछ कर सकते थे।",
+        "ID": "075e483d21c29a511267ef62bedc0461",
+        "Answer Choices": [
+            "A: ignore - नज़रअंदाज़ करना\nB: enforce - लागू करना\nC: authoritarian - विधानशील\nD: yell at - चिल्लाना\nE: avoid - बचना"
+        ]
+    },
+    {
+        "Question": "Question 2: सैमी को वहाँ जाना था जहाँ लोग गए थे। वह कहाँ जा सकता है?",
+        "ID": "61fe6e879ff18686d7552425a36344c8",
+        "Answer Choices": [
+            "A: race track - रेसगाड़ी की दौड़\nB: populated areas - अवास योग्य क्षेत्र\nC: the desert - मरुस्थल\nD: apartment - अपार्टमेंट\nE: roadblock - सड़क पर रुकावट"
+        ]
+    },
+    {
+        "Question": "Question 3: एक चोकर ढूंढ़ने के लिए जेवेलरी बॉक्स या दुकान के इलावा आप कहाँ जाएंगे?",
+        "ID": "4c1cb0e95b99f72d55c068ba0255c54d",
+        "Answer Choices": [
+            "A: jewelry store - जेवेलरी स्टोर\nB: neck - गर्दन\nC: jewlery box - जेवेलरी बॉक्स\nD: jewelry box - जेवेलरी बॉक्स\nE: boutique - बुटीक"
+        ]
+    },
+    {
+        "Question": "Question 4: Google Maps और अन्य हाईवे और सड़क जीपीएस सेवाएं किसे बदल चुकी है?",
+        "ID": "02e821a3e53cb320790950aab4489e85",
+        "Answer Choices": [
+            "A: united states - संयुक्त राज्य\nB: mexico - मेक्सिको\nC: countryside - गांवों की ओर\nD: atlas - ज़मीनी नक्शा\nE: oceans - सागरों"
+        ]
+    },
+    {
+        "Question": "Question 5: लोमड़ी ने शहर से जंगल में चलकर क्या ढूंढ़ रही थी?",
+        "ID": "23505889b94e880c3e89cff4ba119860",
+        "Answer Choices": [
+            "A: pretty flowers - सुंदर फूल।\nB: hen house - मुर्गे का घर\nC: natural habitat - प्राकृतिक आवास\nD: storybook - कहानी की किताब\nE: dense forest - घने जंगल"
+        ]
+    },
+    {
+        "Question": "Question 6: कौन सा घर मनोरंजन उपकरण केबल की ज़रूरत है?",
+        "ID": "e8a8b3a2061aa0e6d7c6b522e9612824",
+        "Answer Choices": [
+            "A: radio shack - रेडियो शैक\nB: substation - उपस्थान\nC: cabinet - अलमारी\nD: television - टेलीविज़न\nE: desk - डेस्क"
+        ]
+    },
+    {
+        "Question": "Question 7: महिला ने चेक इन किया सिर्फ एक खींचने वाली बैग थी। वह उसके साथ कहाँ जा रही थी?",
+        "ID": "09555c056f3cf0b7e0b84d8df4be1db7",
+        "Answer Choices": [
+            "A: garbage can - कचरे की दिब्बा\nB: military - सेना\nC: jewelry store - जेवेलरी स्टोर\nD: safe - सुरक्षित\nE: airport - हवाईअड्डा"
+        ]
+    },
+    {
+        "Question": "Question 8: भूले हुए बचे हुए खाने बहुत पुराना हो गया था, उसने उसे कहाँ ढूंढ़ लिया?",
+        "ID": "3d0f8824ea83ddcc9ab03055658b89d3",
+        "Answer Choices": [
+            "A: carpet - कालीन\nB: refrigerator - फ्रिज\nC: breadbox - ब्रेडबॉक्स\nD: fridge - फ्रिज\nE: coach - कोच"
+        ]
+    },
+    {
+        "Question": "Question 9: लोग किस चीज़ का उपभोग करने के लिए बर्बर पेन से अतिरिक्त स्याही को शोषित करने का उपयोग करते हैं?",
+        "ID": "86c59f14af97b33ec13edc6ec4389e31",
+        "Answer Choices": [
+            "A: shirt pocket - शर्ट की जेब\nB: calligrapher's hand - कैलीग्राफ़र का हाथ\nC: inkwell - स्याही-पेटी\nD: desk drawer - डेस्क की दराज\nE: blotter - सोखने वाला"
+        ]
+    },
+    {
+        "Question": "Question 10: एक बिजनेस रेस्तरां कहाँ स्थित होने की संभावना है?",
+        "ID": "cae61908c731d4a20889e04c3e784ebe",
+        "Answer Choices": [
+            "A: town - शहर\nB: at hotel - होटल पर\nC: mall - मॉल\nD: business sector - व्यापार क्षेत्र\nE: yellow pages - पीले पन्नों"
+        ]
+    }
+]

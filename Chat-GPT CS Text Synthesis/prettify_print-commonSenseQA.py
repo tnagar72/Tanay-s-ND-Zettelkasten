@@ -17,7 +17,7 @@ def print_eachQ(json_dict: dict, counter: int):
         print(label['label'] + ": ", label['text'])
     print()
 
-with open("train_rand_split (2).jsonl", "r") as file:
+with open("/Users/tanaynagar/Desktop/Tanay's ND Zettelkasten/Chat-GPT CS Text Synthesis/train_rand_split.jsonl", "r") as file:
     json_list = json.load(file)
 
 counter = 1
@@ -28,8 +28,6 @@ for json_obj in json_list:
         print_eachQ(prettified_json, counter)
         counter += 1
 
-        if counter == 11:
-            break
     except Exception as e:
         print(f"Error occurred: {e}")
         traceback.print_exc()

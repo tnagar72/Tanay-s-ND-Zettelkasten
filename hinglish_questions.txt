@@ -1,0 +1,323 @@
+Question 1: स्कूल के खिलाफ संशोधन कठोर कड़ा, और वे स्कूल द्वारा किए गए प्रयासों को क्योंकि प्रतीत होते हैं?
+ID: 075e483d21c29a511267ef62bedc0461
+
+A: ignore
+B: enforce
+C: authoritarian
+D: yell at
+E: avoid
+
+Question 2: सैमी को वहाँ जाना था जहाँ लोग थे। वह कहाँ जा सकता है?
+ID: 61fe6e879ff18686d7552425a36344c8
+
+A: race track
+B: populated areas
+C: the desert
+D: apartment
+E: roadblock
+
+Question 3: यदि आप नेकलेस की एक चोकर को संग्रहीत नहीं हैं तो, तो आप कहाँ जा सकते हैं?
+ID: 4c1cb0e95b99f72d55c068ba0255c54d
+
+A: jewelry store
+B: neck
+C: jewlery box
+D: jewelry box
+E: boutique
+
+Question 4: गूगल मैप्स और अन्य हाईवे और सड़क जीपीएस सेवाएं क्या बदल चुकी हैं?
+ID: 02e821a3e53cb320790950aab4489e85
+
+A: united states
+B: mexico
+C: countryside
+D: atlas
+E: oceans
+
+Question 5: शहर से लेकर जंगल में चालाक लोमड़ी थी, वह क्या ढूंढ रही थी?
+ID: 23505889b94e880c3e89cff4ba119860
+
+A: pretty flowers.
+B: hen house
+C: natural habitat
+D: storybook
+E: dense forest
+
+Question 6: होम एंटरटेनमेंट उपकरण में जिसे केबल की आवश्यकता होती है वह क्या है?
+ID: e8a8b3a2061aa0e6d7c6b522e9612824
+
+A: radio shack
+B: substation
+C: cabinet
+D: television
+E: desk
+
+Question 7: महिला ने केवल ड्रॉस्ट्रिंग बैग को हीजड़े थे, वह उसके साथ कहाँ जाने वाली थी?
+ID: 09555c056f3cf0b7e0b84d8df4be1db7
+
+A: garbage can
+B: military
+C: jewelry store
+D: safe
+E: airport
+
+Question 8: भूले हुए शेष भोजन को काफी पुराना हो चुका था, उसे कहीं अंदर सड़ा हुआ मिला, अपने क्या के पीछे?
+ID: 3d0f8824ea83ddcc9ab03055658b89d3
+
+A: carpet
+B: refrigerator
+C: breadbox
+D: fridge
+E: coach
+
+Question 9: फ़ाउंटेन पेन से अधिक इंक अवशेष को अवशोषित करने के लिए लोग क्या इस्तेमाल करते हैं?
+ID: 86c59f14af97b33ec13edc6ec4389e31
+
+A: shirt pocket
+B: calligrapher's hand
+C: inkwell
+D: desk drawer
+E: blotter
+
+Question 10: व्यापारिक रेस्तरां कहाँ स्थित होने की संभावना होगी?
+ID: cae61908c731d4a20889e04c3e784ebe
+
+A: town
+B: at hotel
+C: mall
+D: business sector
+E: yellow pages
+
+Question 11: चेकआउट से पहले आप कहाँ अपने अंगूर रखेंगे?
+ID: 1a7f5b3c65364d9be002576660c914fe
+
+A: mouth
+B: grocery cart
+C: super market
+D: fruit basket
+E: fruit market
+
+Question 12: तलाक लेने से पहले, करीबी महसूस करती थी पत्नी क्या थी जो सभी काम कर रही थी?
+ID: dac769116ed064bc70936c15eb822c3e
+
+A: harder
+B: anguish
+C: bitterness
+D: tears
+E: sadness
+
+Question 13: जॉनी एक बेंच पर बैठ कर बाकी काम करने के बाद आराम कर रहा था। वह कहाँ है?
+ID: f5c9664c9930b704f2724fbd617bee9d
+
+A: state park
+B: bus depot
+C: garden
+D: gym
+E: rest area
+
+Question 14: जेम्स जबरदस्ती शान्ति पार्क में चल रहा था। उसे कैसे रोकने के लिए पहले वो क्या करना चाहेगा?
+ID: b63b9809c203321d6659ddf8551894bf
+
+A: loss of heat
+B: revenge
+C: expansion
+D: relaxation
+E: calm down
+
+Question 15: एक घर में सभी कमरों में यह सबसे पसंदीदा था, सुगन्धें हमेशा उसे यहाँ ले जाती थी?
+ID: 527e72eb38950b8031ee6217ef531960
+
+A: yard
+B: basement
+C: kitchen
+D: living room
+E: garden
+
+Question 16: बिल जब भीषण में फंस गया। वह कहीं का व्यक्ति था जब उसके पास एक आदमी उसे क्या कहता है?
+ID: e6766a66f8d326bf00fbf628a0e4ef24
+
+A: low lands
+B: new york
+C: forest
+D: louisiana
+E: everglades
+
+Question 17: धीरे-धीरे एक लांगड़े में कूक करते समय इसे क्या कहते हैं?
+ID: a76403b4921a9281b6ee2a7241a5ec9f
+
+A: backyard
+B: restaurant
+C: crockpot
+D: neighbor's house
+E: barbeque
+
+Question 18: किस प्रकार के व्यक्ति में आमतौर पर बीमारी होती है?
+ID: ad96098698b8378b2e79c6424920ffbd
+
+A: hospital
+B: head
+C: sick person
+D: elderly person
+E: doctor's office
+
+Question 19: अगर आप शॉपिंग करने के दौरान एक पिज़्ज़ेरिया की तलाश है तो आप कहाँ उम्मीद करने की संभावना होगी?
+ID: 6d4ed2c485187ed79ff3bdcc8cca6132
+
+A: chicago
+B: street
+C: little italy
+D: food court
+E: capital cities
+
+Question 20: जब टेस्टिंग मेनू पर सब कुछ खाने का इरादा होता है, तो व्यक्ति कैसा महसूस करता है?
+ID: a40f5339ee858a0a119cbac052c5a2d0
+
+A: full stomach
+B: getting full
+C: gaining weight
+D: sick
+E: satisfaction
+
+Question 21: लंबे समय तक फुटबॉल खेलने से क्या हो सकता है?
+ID: 4850bf8b6b309548ef623d5592ffbca2
+
+A: excitement
+B: fatigue
+C: anger
+D: hurting
+E: getting tired
+
+Question 22: बिना वापसी द्वार से उपयोग करना चाहते हो तो तुम कौन द्वारा होने वालें प्रवेश का प्रयोग करोगे?
+ID: e6d99b4b76f74961a400ad0001b13b73
+
+A: side
+B: main
+C: anterior
+D: current
+E: front
+
+Question 23: किसी को फ़ाइलें साझा करने के लिए तुम्हारे पास क्या कनेक्शन होने की आवश्यकता होती है?
+ID: f5950a62f9eaae34f1e914b3cf5208cf
+
+A: freeway
+B: radio
+C: wires
+D: computer network
+E: electrical circuit
+
+Question 24: ऐक्सलरेटर हैंड थ्रॉटल के माध्यम से नियंत्रित किया जाता था, और फ़ुट पेडल्स ने इस में किया किया नियंत्रित करते थे?
+ID: f36489668c28b26c0cdbc56cec1db27b
+
+A: car
+B: fuel system
+C: accelerate
+D: boat
+E: airplane
+
+Question 25: शॉन अंदर से डर गया। उसकी आँख से उसे रोकने के लिए वह किया किया
+ID: 0476192858e7f541611b5c2d3c5e5197
+
+A: the reward money
+B: hurt feelings
+C: being found out
+D: problems
+E: trouble
+
+Question 26: The drug kingpin told his man to run errands, this was code to go to all the dealers to do what they had?
+ID: df7861813910ae204c3bd0b3c16fe5d9
+
+A: park
+B: make time for
+C: receive instructions
+D: take money
+E: leave work
+
+Question 27: वह आराम करने के लिए निकाला गया था। दिन में लगातार व्यायाम करने में बिजी था
+ID: c12a904025471139df4f8860cc380c60
+
+A: walk
+B: lay down
+C: working
+D: moving
+E: exercise
+
+Question 28: बहुत से लोग असाधारण सांप चाहते हैं। मांग इनहे रखने के लिए क्या हो गई
+ID: a69bd1bf3c06a233d696a00d71a9db36
+
+A: ditch
+B: shop
+C: north america
+D: pet shops
+E: outdoors
+
+Question 29: जो न जानने की वजह से किसी अजनबी को मारने के लिए किया था, उसके आपत्ति के परिवार ने उसे उसके साथ क्या किया?
+ID: 84e983f432647531b55b8b72c12fb78a
+
+A: knife wounds
+B: buy a gun
+C: bleeding
+D: jail time
+E: law suit
+
+Question 30: बड़े मैच के दौरान किसी को उड़ाना जारी रखने के लिए क्या करना आवश्यक होगा?
+ID: 68f123f22be7bff13875e8b752b2d933
+
+A: television
+B: attic
+C: corner
+D: they cannot clean corner and library during football match they cannot need that
+E: ground
+
+Question 31: मेरे दिमाग में एक कोई चीज़ है जिसे मैं साझा करना चाहता हूं, इसका मैं कैसे अभिप्रेषण कर सकता हूं?
+ID: c9580b132b323906f0d51e7dc5b4ce29
+
+A: write an essay
+B: organize thoughts
+C: speak information
+D: summarize main points
+E: have information
+
+Question 32: वह एक ऐसे घर की तलाश करता था जो अन्य स्थानों से अलग हो, उसे कहाँ खोजना चाहिए?
+ID: 80930e9df9ac4ad752749a54e7fc124f
+
+A: neighborhood
+B: subdivision
+C: city
+D: suburbs
+E: street
+
+Question 33: दक्षिणी यूरोप में आप कहाँ कई नहर खोजेंगे?
+ID: f080ab037c1aaf689a43cc030e9d93e9
+
+A: michigan
+B: new york
+C: amsterdam
+D: venice
+E: bridge
+
+Question 34: खाना पकाने से पहले कंपर को क्या करना होगा?
+ID: a261d4eaf8b33c0730d830ebbffbd9f8
+
+A: make breakfast
+B: go hiking
+C: pack or bag
+D: light fire
+E: grab a match
+
+Question 35: कागज़ के साथ क्या हो सकता है अगर आप उसे बहार छोड़ देते हैं भले ही यह न हिले?
+ID: bfd14dedb440ae1c266c61aa22960778
+
+A: one material often recycled
+B: ripped
+C: saturated with water
+D: one dimensional
+E: crumpled
+
+Question 36: मार्क का सीमेन बहुत गाढ़ा था, लेकिन उसके वैसेक्टमी के बाद वो क्या हो गया?
+ID: 5a953b5fb26f1614640574f65410e8b0
+
+A: blank
+B: sparse
+C: thin
+D: clear
+E: free flowing

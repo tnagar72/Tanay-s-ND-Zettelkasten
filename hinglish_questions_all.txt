@@ -1,0 +1,39 @@
+{
+"questions": [
+    {
+      "id": "1aeb617f9e993e69726aa1161e6c0a8b",
+      "english_question": "What is your name?",
+      "english_choices": ["Emma", "Riya", "Aman"],
+      "hinglish_question": "Tumhara name kya hai?",
+      "hinglish_choices": ["Emma", "Riya", "Aman"]
+    },
+    {
+      "id": "f20ae470bd2d3c2a8ceb8295ce9e618a",
+      "english_question": "How are you feeling today?",
+      "english_choices": ["Good", "Sad", "Happy"],
+      "hinglish_question": "Aaj tumhara mood kaisa hai?",
+      "hinglish_choices": ["Good", "Sad", "Happy"]
+    },
+    {
+      "id": "a9f02dd52c7d8a3d07ca12624e0d74c3",
+      "english_question": "Where are you going for vacation?",
+      "english_choices": ["Goa", "Shimla", "Mumbai"],
+      "hinglish_question": "Vacation ke liye tum kahan ja rahe ho?",
+      "hinglish_choices": ["Goa", "Shimla", "Mumbai"]
+    },
+    {
+      "id": "35c45fc0a81e751d9b8ea4d0e8f86270",
+      "english_question": "Have you had dinner yet?",
+      "english_choices": ["Yes", "No"],
+      "hinglish_question": "Abhi tak tumne dinner kiya hai?",
+      "hinglish_choices": ["Yes", "No"]
+    },
+    {
+      "id": "d4e926e93f077a696709f458c89e02b9",
+      "english_question": "What time is the meeting scheduled for?",
+      "english_choices": ["10:00 AM", "2:00 PM", "5:00 PM"],
+      "hinglish_question": "Meeting kab scheduled hai?",
+      "hinglish_choices": ["10:00 AM", "2:00 PM", "5:00 PM"]
+    }
+  ]
+}

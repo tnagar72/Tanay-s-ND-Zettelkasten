@@ -1,89 +1,295 @@
-Question 1: स्कूल के खिलाफ लगे प्रतिबंध एक punishing झटका थे, और वे लग रहा था कि यह कुछ change करने की school की efforts को किस special कर दिया जाएगा?
-ID: 075e483d21c29a511267ef62bedc0461
-
-A:  ignore
-B:  enforce
-C:  authoritarian
-D:  yell at
-E:  avoid
-
-Question 2: सैमी का मन उस स्थान में जाने का है जहां लोग होते हैं। वह जा सकता है कहां?
-ID: 61fe6e879ff18686d7552425a36344c8
-
-A:  race track
-B:  populated areas
-C:  the desert
-D:  apartment
-E:  roadblock
-
-Question 3: चोकर ढूंढने के लिए जब आप jewelry box या boutique में ढूंढ ​​नहीं पा रहे होंगे, तो आप कहां जाएंगे?
-ID: 4c1cb0e95b99f72d55c068ba0255c54d
-
-A:  जवेलरी स्टोर
-B:  गर्दन
-C:  ज्वेलरी बॉक्स
-D:  ज्वेलरी बॉक्स
-E:  बूटिक
-
-Question 4: Google Maps और अन्य highway और street GPS services ने क्या को replace कर दिया है?
-ID: 02e821a3e53cb320790950aab4489e85
-
-A:  united states
-B:  mexico
-C:  countryside
-D:  एटलस
-E:  oceans
-
-Question 5: लोमड़ी ने शहर से जंगल में चल दिया, वह क्या ढूंढ रही थी?
-ID: 23505889b94e880c3e89cff4ba119860
-
-A:  pretty flowers.
-B:  hen house
-C:  natural habitat
-D:  storybook
-E:  dense forest
-
-Question 6: कौन सा home entertainment equipment cable की जरूरत होती है?
+Question 6: Home entertainment equipment में कौनसा equipment cable require करता है?
 ID: e8a8b3a2061aa0e6d7c6b522e9612824
+A: radio shack
+B: substation
+C: cabinet
+D: television
+E: desk
 
-A:  radio shack
-B:  substation
-C:  cabinet
-D:  television
-E:  desk
-
-Question 7: वह महिला जिनका एक drawstring bag ही था जिसे वह देखती ही थी वह उसके साथ कहां जा रही थी?
+Question 7: वह महिला ने सिर्फ एक drawstring bag check किया, वह उसके साथ कहाँ जा रही थी?
 ID: 09555c056f3cf0b7e0b84d8df4be1db7
+A: garbage can
+B: military
+C: jewelry store
+D: safe
+E: airport
 
-A:  garbage can
-B:  military
-C:  जवेलरी स्टोर
-D:  safe
-E:  संचार
-
-Question 8: भूले हुए बचे हुए खाने को काफी old हो चुका था, उसे फंगस से पुरी तरह से ढक लिया गया था उसके की पिछलियों में कहां?
+Question 8: भूल गये थे leftovers और बहुत old हो गए थे, उसने उन्हें किसके back में mold covered पाया?
 ID: 3d0f8824ea83ddcc9ab03055658b89d3
+A: carpet
+B: refrigerator
+C: breadbox
+D: fridge
+E: coach
 
-A:  carpet
-B:  refrigerator
-C:  breadbox
-D:  फ्रिज
-E:  coach
-
-Question 9: लोग fountain pen से extra ink अवश्यकता को किससे absorb करने के लिए इस्तेमाल करते हैं?
+Question 9: People क्या use करते हैं fountain pen से extra ink absorb करने के लिए?
 ID: 86c59f14af97b33ec13edc6ec4389e31
+A: shirt pocket
+B: calligrapher's hand
+C: inkwell
+D: desk drawer
+E: blotter
 
-A:  shirt pocket
-B:  calligrapher's hand
-C:  inkwell
-D:  desk drawer
-E:  blotter
-
-Question 10: एक बिजनेस रेस्टोरेंट किस जगह स्थित होने की संभावना है?
+Question 10: Business restaurant को हम कहाँ locate कर सकते हैं?
 ID: cae61908c731d4a20889e04c3e784ebe
+A: town
+B: at hotel
+C: mall
+D: business sector
+E: yellow pages
 
-A:  town
-B:  एट होटेल
-C:  mall
-D:  व्यापारी क्षेत्र
-E:  yellow pages
+Question 11: Checking out से तुरंत पहले आप अपने grapes कहाँ put करते हैं?
+ID: 1a7f5b3c65364d9be002576660c914fe
+A: mouth
+B: grocery cart
+C: super market
+D: fruit basket
+E: fruit market
+
+Question 12: Divorce से पहले, wife को कौन सब से ज्यादा work कर रहा था अनुभव हुआ?
+ID: dac769116ed064bc70936c15eb822c3e
+A: harder
+B: anguish
+C: bitterness
+D: tears
+E: sadness
+
+Question 13: Johnny ने एक bench पर बैठकर relax किया अपने hobby पर काम करने के बाद। Where is he?
+ID: f5c9664c9930b704f2724fbd617bee9d
+A: state park
+B: bus depot
+C: garden
+D: gym
+E: rest area
+
+Question 14: James बहुत quickly cooling off हो रहा था। He would die if he didn't find some way to stop वाला चीज़ क्या है?
+ID: b63b9809c203321d6659ddf8551894bf
+A: loss of heat
+B: revenge
+C: expansion
+D: relaxation
+E: calm down
+
+Question 15: House के सभी rooms में, उसकी favorite कौन सी room थी, जिसमें aromas हमेशा उसे खींच लेते थे। वो कौन सा है?
+ID: 527e72eb38950b8031ee6217ef531960
+A: yard
+B: basement
+C: kitchen
+D: living room
+E: garden
+
+Question 16: Bill एक marsh में stuck है जबकि सामने मस्त Cajun में बोल रहा है। Where is he?
+ID: e6766a66f8d326bf00fbf628a0e4ef24
+A: low lands
+B: new york
+C: forest
+D: louisiana
+E: everglades
+
+Question 17: स्लोली cook करने के लिए use होने वाले grill को क्या कहा जाता है?
+ID: a76403b4921a9281b6ee2a7241a5ec9f
+A: backyard
+B: restaurant
+C: crockpot
+D: neighbor's house
+E: barbeque
+
+Question 18: वह किस type का person है जो typically illness contract करता है?
+ID: ad96098698b8378b2e79c6424920ffbd
+A: hospital
+B: head
+C: sick person
+D: elderly person
+E: doctor's office
+
+Question 19: Shopping करते समय आपको pizzeria कहाँ मिलने की उम्मीद हो सकती है?
+ID: 6d4ed2c485187ed79ff3bdcc8cca6132
+A: chicago
+B: street
+C: little italy
+D: food court
+E: capital cities
+
+Question 20: When eating everything on the tasting menu, क्या feel हो सकता है?
+ID: a40f5339ee858a0a119cbac052c5a2d0
+A: full stomach
+B: getting full
+C: gaining weight
+D: sick
+E: satisfaction
+
+Question 21: सिर्फ सॉकर खेलने से kya lead करता है?
+ID: 4850bf8b6b309548ef623d5592ffbca2
+A: excitement
+B: fatigue
+C: anger
+D: hurting
+E: getting tired
+
+Question 22: अगर आप back entrance use नहीं करना चाहते, तो आप कौन सा entrance use करेंगे?
+ID: e6d99b4b76f74961a400ad0001b13b73
+A: side
+B: main
+C: anterior
+D: current
+E: front
+
+Question 23: आप अगर किसी से files share करना चाहते हैं, तो आपका connection होना चाहिए किसके साथ?
+ID: f5950a62f9eaae34f1e914b3cf5208cf
+A: freeway
+B: radio
+C: wires
+D: computer network
+E: electrical circuit
+
+Question 24: Accelerator ने control किया हाथसे throttle, और foot pedals controlled the steering in the small क्या?
+ID: f36489668c28b26c0cdbc56cec1db27b
+A: car
+B: fuel system
+C: accelerate
+D: boat
+E: airplane
+
+Question 25: Sean झूठ बोल रहा था about the body, लेकिन वह बहुत scared था। उसे constantly worry हो रहा था किस चीज़ के बारे में?
+ID: 0476192858e7f541611b5c2d3c5e5197
+A: the reward money
+B: hurt feelings
+C: being found out
+D: problems
+E: trouble
+
+Question 26: The drug kingpin ने अपने man से run errands करने को कहा, यह code था go to all the dealers to do वो क्या है, जो उन्होंने करने की?
+ID: df7861813910ae204c3bd0b3c16fe5d9
+A: park
+B: make time for
+C: receive instructions
+D: take money
+E: leave work
+
+Question 27: Though he could've kept going his body appreciated the rest, वो क्या कर रहा था constantly during the day?
+ID: c12a904025471139df4f8860cc380c60
+A: walk
+B: lay down
+C: working
+D: moving
+E: exercise
+
+Question 28: Too many people want exotic snakes। The demand is driving क्या to carry them?
+ID: a69bd1bf3c06a233d696a00d71a9db36
+A: ditch
+B: shop
+C: north america
+D: pet shops
+E: outdoors
+
+Question 29: Joe suffered many consequences from stabbing a stranger to death। Among them, the family of the victim did क्या to him। What was that?
+ID: 84e983f432647531b55b8b72c12fb78a
+A: knife wounds
+B: buy a gun
+C: bleeding
+D: jail time
+E: law suit
+
+Question 30: To prevent any glare during the big football game he made sure to clean the dust of his क्या?
+ID: 68f123f22be7bff13875e8b752b2d933
+A: television
+B: attic
+C: corner
+D: they cannot clean corner and library during football match they cannot need that
+E: ground
+
+Question 31: मेरे दिमाग में कुछ है जो मैं share करना चाहता हूँ, मैं उसे कैसे कर सकता हूँ?
+ID: c9580b132b323906f0d51e7dc5b4ce29
+A: write an essay
+B: organize thoughts
+C: speak information
+D: summarize main points
+E: have information
+
+Question 32: He wanted a house that was gated off from other places, उसे कहाँ देखना start करना चाहिए?
+ID: 80930e9df9ac4ad752749a54e7fc124f
+A: neighborhood
+B: subdivision
+C: city
+D: suburbs
+E: street
+
+Question 33: Southern Europe में आपको कहीं बहुत सारे canals मिलेंगे?
+ID: f080ab037c1aaf689a43cc030e9d93e9
+A: michigan
+B: new york
+C: amsterdam
+D: venice
+E: bridge
+
+Question 34: What would a camper need to do before he or she can start cooking food?
+ID: a261d4eaf8b33c0730d830ebbffbd9f8
+A: make breakfast
+B: go hiking
+C: pack or bag
+D: light fire
+E: grab a match
+
+Question 35: अगर आप एक paper को outside रख देते हैं और वह move नहीं करता, तो उसके साथ क्या हो सकता है?
+ID: bfd14dedb440ae1c266c61aa22960778
+A: one material often recycled
+B: ripped
+C: saturated with water
+D: one dimensional
+E: crumpled
+
+Question 36: Mark's semen was very thick, but after his vasectomy it also became what?
+ID: 5a953b5fb26f1614640574f65410e8b0
+A: blank
+B: sparse
+C: thin
+D: clear
+E: free flowing
+
+Question 37: What is a great place to lay in the sun?
+ID: ac0351d8649fb60af40c5638061a2e21
+A: in the basement
+B: west
+C: solar system
+D: beach
+E: beans
+
+Question 38: North America के east coast में आपको सीफूड रेस्टोरेंट कहाँ मिलेगा?
+ID: c8b18acf8e95172ff79b0a837e9369f3
+A: maine
+B: boston
+C: beach town
+D: coastal cities
+E: ocean
+
+Question 39: The president is the leader of कौन से institution का?
+ID: 7a7ff4499a7162265ddac0c3e2e8e5fc
+A: walmart
+B: white house
+C: country
+D: corporation
+E: government
+
+Question 40: TV देखते समय too close sitting करने से आपके कौन से type के pain होने की possibility है?
+ID: fb721d7949d06915a2dd6fc6ec815325
+A: brain problems
+B: laziness
+C: get fat
+D: headache
+E: laughter
+
+Question 41: Bald eagle को कहाँ सुरक्षित मिलता है?
+ID: 47db2878d917ceb8d82627de4722a254
+A: pine tree
+B: open country
+C: in washington
+D: wildlife refuge
+E: sky
+
+Question 42: Game ने promise किया कि वह free है, लेकिन child's parents soon found themselves doing what for microtransactions?
+ID: f03a340e093dbd5eea88feb6507ed20e
+A: costly
+B: captive
+C: contained
+D: paying
+E: caught

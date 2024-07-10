@@ -1,0 +1,82 @@
+[
+    {
+        "Question": "Question 1: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change?",
+        "ID": "075e483d21c29a511267ef62bedc0461",
+        "Answer Choices": [
+            "A: ignore\nB: enforce\nC: authoritarian\nD: yell at\nE: avoid",
+            "A: ignore\nB: enforce\nC: authoritarian\nD: yell at\nE: avoid"
+        ]
+    },
+    {
+        "Question": "Question 2: Sammy wanted to go to where the people were. Where might he go?",
+        "ID": "61fe6e879ff18686d7552425a36344c8",
+        "Answer Choices": [
+            "A: race track\nB: populated areas\nC: the desert\nD: apartment\nE: roadblock",
+            "A: race track\nB: populated areas\nC: the desert\nD: apartment\nE: roadblock"
+        ]
+    },
+    {
+        "Question": "Question 3: To locate a choker not located in a jewelry box or boutique where would you go?",
+        "ID": "4c1cb0e95b99f72d55c068ba0255c54d",
+        "Answer Choices": [
+            "A: jewelry store\nB: neck\nC: jewlery box\nD: jewelry box\nE: boutique",
+            "A: jewelry store\nB: neck\nC: jewlery box\nD: jewelry box\nE: boutique"
+        ]
+    },
+    {
+        "Question": "Question 4: Google Maps and other highway and street GPS services have replaced what?",
+        "ID": "02e821a3e53cb320790950aab4489e85",
+        "Answer Choices": [
+            "A: united states\nB: mexico\nC: countryside\nD: atlas\nE: oceans",
+            "A: united states\nB: mexico\nC: countryside\nD: atlas\nE: oceans"
+        ]
+    },
+    {
+        "Question": "Question 5: The fox walked from the city into the forest, what was it looking for?",
+        "ID": "23505889b94e880c3e89cff4ba119860",
+        "Answer Choices": [
+            "A: pretty flowers.\nB: hen house\nC: natural habitat\nD: storybook\nE: dense forest",
+            "A: pretty flowers.\nB: hen house\nC: natural habitat\nD: storybook\nE: dense forest"
+        ]
+    },
+    {
+        "Question": "Question 6: What home entertainment equipment requires cable?",
+        "ID": "e8a8b3a2061aa0e6d7c6b522e9612824",
+        "Answer Choices": [
+            "A: radio shack\nB: substation\nC: cabinet\nD: television\nE: desk",
+            "A: radio shack\nB: substation\nC: cabinet\nD: television\nE: desk"
+        ]
+    },
+    {
+        "Question": "Question 7: The only baggage the woman checked was a drawstring bag, where was she heading with it?",
+        "ID": "09555c056f3cf0b7e0b84d8df4be1db7",
+        "Answer Choices": [
+            "A: garbage can\nB: military\nC: jewelry store\nD: safe\nE: airport",
+            "A: garbage can\nB: military\nC: jewelry store\nD: safe\nE: airport"
+        ]
+    },
+    {
+        "Question": "Question 8: The forgotten leftovers had gotten quite old, he found it covered in mold in the back of his what?",
+        "ID": "3d0f8824ea83ddcc9ab03055658b89d3",
+        "Answer Choices": [
+            "A: carpet\nB: refrigerator\nC: breadbox\nD: fridge\nE: coach",
+            "A: carpet\nB: refrigerator\nC: breadbox\nD: fridge\nE: coach"
+        ]
+    },
+    {
+        "Question": "Question 9: What do people use to absorb extra ink from a fountain pen?",
+        "ID": "86c59f14af97b33ec13edc6ec4389e31",
+        "Answer Choices": [
+            "A: shirt pocket\nB: calligrapher's hand\nC: inkwell\nD: desk drawer\nE: blotter",
+            "A: shirt pocket\nB: calligrapher's hand\nC: inkwell\nD: desk drawer\nE: blotter"
+        ]
+    },
+    {
+        "Question": "Question 10: Where is a business restaurant likely to be located?",
+        "ID": "cae61908c731d4a20889e04c3e784ebe",
+        "Answer Choices": [
+            "A: town\nB: at hotel\nC: mall\nD: business sector\nE: yellow pages",
+            "A: town\nB: at hotel\nC: mall\nD: business sector\nE: yellow pages"
+        ]
+    }
+]
