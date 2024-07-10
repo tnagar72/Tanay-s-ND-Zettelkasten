@@ -81484,4 +81484,326 @@ A: deserts
 B: shops
 C: sunshine
 D: kitchen
-E: terrain
+E: terrainQuestion 9577: वो भूखड़ बच्चा, door पर अपना student ID use करने की कोशिश की। यह जाहिर है कि उसे इससे कुछ नहीं मिला।
+ID: 372b978deb88c296ac52a210f867222d
+
+A: हटेल
+B: gentleman's lounge
+C: kindergarten class
+D: university
+E: school
+
+Question 9578: अगर recipe में एक आलू चाहिए, तो आप उसे और अन्य सामग्री कहां से ला सकते हैं?
+ID: 5cb7a320087c451939cf8f275fcdd78a
+
+A: pantry
+B: farmer's field
+C: cellar
+D: food market
+E: soil
+
+Question 9579: जब आपके विपक्षी अग्रभूत हो जाते हैं, तो सेनिक क्या करते हैं?
+ID: 588637ec3cc621e7183c6c608cf6f021
+
+A: orders का पालन करें
+B: हथियार प्रयोग करें
+C: reinforcements को call करें
+D: घर वापस आने की कोशिश करें
+E: लड़ाई में मर जाएँ
+
+Question 9580: dress shirt कहां रखा जाता है?
+ID: ddea491827544bc6d1a9e3aa715817cf
+
+A: garderobe
+B: drawer
+C: suitcase
+D: absence heat
+E: closet
+
+Question 9581: बॉब खुश है कि उसके भाग प्रोग्राम को मिलियंस लोग देखेंगे। ये प्रोग्राम कहाँ देखे जाएँगे?
+ID: c7353a600c53af0c11130379852e5df8
+
+A: group समारोह में
+B: conference में
+C: theater में
+D: compute करें
+E: television पर
+
+Question 9582: एक container में कहाँ पीये जाते हैं gallons of beer?
+ID: d1f7e62e5b5e85f196b9132e274fbb35
+
+A: outside
+B: friend's house
+C: neighbor's house
+D: keg
+E: refrigerator
+
+Question 9583: bandar डर गया क्योंकि जंगल जैसा नहीं था उसके zoo। पौधे वहीं हैं, पेड़ वहीं हैं, लेकिन फिर भी ठीक नहीं था। bandar कहां से आया था?
+ID: 4d2a1050f565d16464d4f605b57e796f
+
+A: rain forest
+B: treetops
+C: tundra
+D: playful मूड
+E: brazil
+
+Question 9584: जॉन को देश से देश जाना था इसलिए उसने tickets online order किए और अपनी कार में बैठ गया। वह कहाँ जा रहा हो सकता है?
+ID: ea2a09b03452854c33d720188ff8cc96
+
+A: ट्रेन स्टेशन
+B: opera में
+C: car rental shop में
+D: show में
+E: race track में
+
+Question 9585: वो औरत खुद को खुश ठहराती है जो अपने आपको Joy कहती है। उसने एक आदमी को क्या कहा?
+ID: 93fa762c32b9a1ab1dec68a7011e6d58
+
+A: place plate को table पर
+B: सैदाई
+C: दुख
+D: पीड़ा
+E: बुरा समय
+
+Question 9586: उस building में कई लोगों को ऑकॉमोडेट किया जा सकता है। entrance hall alone impressive थी, जहां को shoulder to shoulder entry की जा सकती थी सदी मार्गियों को। लेकिन यह building एक अरबपति की सौभाग्य संगणकीय उपयोग के लिए होता है, उसकी निजी मनोरंजन के लिए होता है। आप इस स्थान को कैसे वर्णन करेंगे?
+ID: 82bdf702116bca7605cde3954569b095
+
+A: convention center
+B: public building
+C: बड़ा इमारत
+D: school
+E: टाउन हॉल
+
+Question 9587: dinosaur bone देखने के लिए आप कहाँ जाएंगे?
+ID: 006eab301cda428d153511b7ac6820f0
+
+A: human body में
+B: हथेली में
+C: tomb में
+D: pyramid में
+E: museum में
+
+Question 9588: garage के कमरे पर क्या होती है?
+ID: 5b7ce53f96f858b090cdb63f86cb18a7
+
+A: घर
+B: building
+C: downtown
+D: storage area
+E: car
+
+Question 9589: वापसी द्वारा आगंतुक सीधे एक घर में ले जाती है। उसमें उसका अटेच किया जाता है है?
+ID: 076e526335fb109cb590fce55a8d4e75
+
+A: suburbs में
+B: large house में
+C: farm house में
+D: palace में
+E: country estate में
+
+Question 9590: जब युवा लोग बोर हो जाते हैं और मनोरंजन करना चाहते हैं, तो वे क्या करते हैं?
+ID: ebad6ac8ed446160190325b078c99b0b
+
+A: play गेंद
+B: जीवन का चयन करें
+C: एक दूसरे से बात करें
+D: बाहर खेलें
+E: प्रोग्राम लिखें
+
+Question 9591: मैं GPS के बिना turnpike पर खो गया हूँ, तो मैं क्या consult करना चाहिए?
+ID: 7fddee68fa909c175ddb83ad539d9f0c
+
+A: पूर्वी united states
+B: गोंद चढ़ाना
+C: एटलास
+D: urban region
+E: interstate highway
+
+Question 9592: यदि आप अपने तंबाकू का एक bandar ghar पर खो गया है। इसके पास सबसे पहले आप कहाँ देखते होंगे?
+ID: 05d73ae4829152a0e9139d8ed1f8acff
+
+A: कैनडा
+B: friend's house
+C: वर्षा वन
+D: अमेज़ॉन उपनदीप
+E: अफ़्रीकी महाद्वीप
+
+Question 9593: तालाबंदी क्यों करते हैं लोग?
+ID: 71e3477137569524024810d182222617
+
+A: लोगों को बाहर रखें
+B: पवन रोकें
+C: cupboard बांधें
+D: खोलें
+E: गिलास
+
+Question 9594: रूम के बीच किस मंज़िल पर दौड़ते हैं?
+ID: 1a219f881dd9a74f588c69d05e0d22bc
+
+A: carpet
+B: विनिमय
+C: नृत्य
+D: building
+E: hallway
+
+Question 9595: लिली ने मॉल में कुछ नए कपड़े खरीदे। उन्होंने उसे अपनी कार में रखा और उसे कहाँ ले गई हो सकती हैं?
+ID: 1ed45a6ac520f3a86510ef48038ce512
+
+A: अलमारी में
+B: yard sale में
+C: ड्रॉयर
+D: पाठ
+E: घर
+
+Question 9596: journalist अक्सर locker rooms में जाते हैं।
+ID: d9461aa058c5c4eb00abda6e421989eb
+
+A: खिलाड़ी
+B: health club में
+C: gymnasium में
+D: stadium में
+E: नफरत
+
+Question 9597: इंसान बैठे हुए artistic expression के प्रदर्शन के लिए आनंद उठाते हैं, इसलिए उन्होंने क्या आविष्कार किया?
+ID: 2e8ba93eeb6ccc3d50ef55225a886bef
+
+A: sit down
+B: थट बजाना
+C: excrete करना
+D: मांस खाना
+E: मछलाना
+
+Question 9598: जॉन ने सोचा कि धर्म और क्या के बीच कोई टकराव नहीं है?
+ID: e28492cfe62fa4a3d39ee10915e2986f
+
+A: atheist
+B: atheism
+C: लोगों के लिए महत्वपूर्ण होता है
+D: युद्ध
+E: science
+
+Question 9599: जोड़ी conflict में हो जाएगी वो वैकल्पिक आपत्तिजनक स्थिति से?
+ID: 9a95d7962dcbce742b274ebb6962c6f6
+
+A: आराम
+B: enjoying
+C: arguments कैरना
+D: विदेश जाना
+E: पैसे खर्च करना
+
+Question 9600: जब आप कई लोगों को किसी चीज़ के बारे में बता रहे हैं, तो आप उन्हें address करने के लिए क्या करना होगा?
+ID: d0ee686c19689e5da9caafa3d8f8942f
+
+A: हाथ संकेत
+B: बोलना
+C: चिल्लाना
+D: भूकंप
+E: चिल्लाना
+
+Question 9601: हम अमर होने के कारण, लोग क्या करना चाहिए?
+ID: 67ee705c0f296fb92ff194b809117f3f
+
+A: मौत की आशा करें
+B: बिल चुकाएँ
+C: पालतू जानवर खरीदें
+D: घर में रहें
+E: मकई खाएं
+
+Question 9602: यदि यात्रियों को अलग महाद्वीप जाने की योजना है, तो वे कहाँ देखने में मिलेंगें?
+ID: dfd81f3e2498468c074edb783cac36c8
+
+A: rest area में
+B: bus depot में
+C: train station में
+D: airport में
+E: टिकट बुक करें
+
+Question 9603: इस नाम के बावजूद, नीचे beer और wine भी मिलेंगे कहाँ?
+ID: dde908bf9b0da7d90c44e17c1cf76d4b
+
+A: liquor स्टोर
+B: texas में
+C: art show में
+D: बेसमेंट में
+E: spaghetti sauce में
+
+Question 9604: audio cards के साथ computer क्या कर सकते हैं?
+ID: 0867feb7e120a7e16b07462530cd4a66
+
+A: काम करेंगे
+B: sound उत्पन्न करेंगे
+C: instructions का पालन करेंगे
+D: knowledge आद्यात्म खोजेंगे
+E: problems को हल करेंगे
+
+Question 9605: एक complex system आप कहाँ से खरीद सकते हैं?
+ID: 2f32ba4775f5bd7930c3ff1207249b22
+
+A: जगह से
+B: clothing store में
+C: कंप्यूटर दुकान में
+D: इंसानी शरीर में
+E: computer science में
+
+Question 9606: आदमी गंदा और असभ्य था, सभी औरतें office में एक साथ शिकायत कर दी।
+ID: 720f00ce6f63996210e40d6ed37a1653
+
+A: लेडी
+B: पत्नी जी
+C: महिलाएं
+D: उसकी
+E: female व्यक्ति
+
+Question 9607: एक घर में अक्सर spiders होती हैं।
+ID: 8a2e776c8704404232b3e77c7240f6c4
+
+A: दीवार में
+B: cellar में
+C: floor में
+D: वेब में
+E: basement में
+
+Question 9608: व्यक्ति एक dating website पर साइन अप करता है। वह क्या ढूंढ़ रहा है?
+ID: 15f1a823c68ae124566160e6e61bd86d
+
+A: financial security
+B: तत्वविज्ञान
+C: अच्छी ज़िंदगी बिताएं
+D: एक्का घर
+E: अच्छी संबंध
+
+Question 9609: मरकर मस्स death कर देता है?
+ID: 48e3cbdc1155bf12571d6ceee62c2635
+
+A: पॉइजनस गैस
+B: हत्या
+C: आत्महत्या
+D: जहरीले पत्ते
+E: न्यूक्लियर हथियार
+
+Question 9610: collectivist लोग क्या करते हैं?
+ID: 57867e942d80fe6df3c0b6f12667e700
+
+A: नवयुवकों को पाल पोस करें
+B: ईश्वर में अवधारणा रखें
+C: हाथ मिलाते रहें
+D: चीज़ें बाँटें
+E: अधिकार के प्रश्न पूछें
+
+Question 9611: लिली ने हर तरह के फूल देखने की इच्छा रखी। लेकिन यह मुश्किल है, क्योंकि फूल जमीन पर आते हैं।
+ID: a049cf9916b3a96afc50f8704c3614a8
+
+A: पृथ्वी की सतह में
+B: नीदरलैंड
+C: देश की तराई
+D: राज्य पार्क में
+E: anthology में
+
+Question 9612: विद्यार्थी को टेनिस खेलना पसंद था, वह बार-बार tennis court पर आती थी।
+ID: 992d5c6f881afb409966fb17d3352e6e
+
+A: मनोरंजन केंद्र में
+B: खेलकूद क्लब में
+C: सॉकर खेत में
+D: शहर
+E: कॉलेज कैंपस में
